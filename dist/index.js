@@ -1,3 +1,3 @@
-module.exports.keywords = require('./timezones-keywords.json');
-module.exports.iana = require('./timezones-iana.json');
-module.exports.countries = require('./timezones-countries.json');
+module.exports.timezonesKeywords = require('./timezones-keywords.json');
+module.exports.timezonesIana = require('./timezones-iana.json');
+module.exports.timezonesCountries = require('./timezones-countries.json');
