@@ -1,0 +1,2122 @@
+[
+  {
+    "value": "Europe/Andorra",
+    "label": "Europe/Andorra",
+    "keywords": "AD Principality of Andorra Principat d'Andorra"
+  },
+  {
+    "value": "Asia/Dubai",
+    "label": "Asia/Dubai",
+    "keywords": "AE United Arab Emirates دولة الإمارات العربية المتحدة"
+  },
+  {
+    "value": "Asia/Kabul",
+    "label": "Asia/Kabul",
+    "keywords": "AF Islamic Republic of Afghanistan افغانستان جمهوری اسلامی د اسلامي جمهوریت Owganystan Yslam Respublikasy"
+  },
+  {
+    "value": "America/Antigua",
+    "label": "America/Antigua",
+    "keywords": "AG Antigua and Barbuda"
+  },
+  {
+    "value": "America/Anguilla",
+    "label": "America/Anguilla",
+    "keywords": "AI Anguilla"
+  },
+  {
+    "value": "Europe/Tirane",
+    "label": "Europe/Tirane",
+    "keywords": "AL Republic of Albania Shqipëria Republika e Shqipërisë"
+  },
+  {
+    "value": "Asia/Yerevan",
+    "label": "Asia/Yerevan",
+    "keywords": "AM Republic of Armenia Հայաստան Հայաստանի Հանրապետություն Армения Республика"
+  },
+  {
+    "value": "Africa/Luanda",
+    "label": "Africa/Luanda",
+    "keywords": "AO Republic of Angola República de"
+  },
+  {
+    "value": "Antarctica/McMurdo",
+    "label": "Antarctica/McMurdo",
+    "keywords": "AQ Antarctica "
+  },
+  {
+    "value": "Antarctica/Casey",
+    "label": "Antarctica/Casey",
+    "keywords": "AQ Antarctica "
+  },
+  {
+    "value": "Antarctica/Davis",
+    "label": "Antarctica/Davis",
+    "keywords": "AQ Antarctica "
+  },
+  {
+    "value": "Antarctica/DumontDUrville",
+    "label": "Antarctica/DumontDUrville",
+    "keywords": "AQ Antarctica "
+  },
+  {
+    "value": "Antarctica/Mawson",
+    "label": "Antarctica/Mawson",
+    "keywords": "AQ Antarctica "
+  },
+  {
+    "value": "Antarctica/Palmer",
+    "label": "Antarctica/Palmer",
+    "keywords": "AQ Antarctica "
+  },
+  {
+    "value": "Antarctica/Rothera",
+    "label": "Antarctica/Rothera",
+    "keywords": "AQ Antarctica "
+  },
+  {
+    "value": "Antarctica/Syowa",
+    "label": "Antarctica/Syowa",
+    "keywords": "AQ Antarctica "
+  },
+  {
+    "value": "Antarctica/Troll",
+    "label": "Antarctica/Troll",
+    "keywords": "AQ Antarctica "
+  },
+  {
+    "value": "Antarctica/Vostok",
+    "label": "Antarctica/Vostok",
+    "keywords": "AQ Antarctica "
+  },
+  {
+    "value": "America/Argentina/Buenos_Aires",
+    "label": "America/Argentina/Buenos_Aires",
+    "keywords": "AR Argentine Republic Argentina República"
+  },
+  {
+    "value": "America/Argentina/Cordoba",
+    "label": "America/Argentina/Cordoba",
+    "keywords": "AR Argentine Republic Argentina República"
+  },
+  {
+    "value": "America/Argentina/Salta",
+    "label": "America/Argentina/Salta",
+    "keywords": "AR Argentine Republic Argentina República"
+  },
+  {
+    "value": "America/Argentina/Jujuy",
+    "label": "America/Argentina/Jujuy",
+    "keywords": "AR Argentine Republic Argentina República"
+  },
+  {
+    "value": "America/Argentina/Tucuman",
+    "label": "America/Argentina/Tucuman",
+    "keywords": "AR Argentine Republic Argentina República"
+  },
+  {
+    "value": "America/Argentina/Catamarca",
+    "label": "America/Argentina/Catamarca",
+    "keywords": "AR Argentine Republic Argentina República"
+  },
+  {
+    "value": "America/Argentina/La_Rioja",
+    "label": "America/Argentina/La_Rioja",
+    "keywords": "AR Argentine Republic Argentina República"
+  },
+  {
+    "value": "America/Argentina/San_Juan",
+    "label": "America/Argentina/San_Juan",
+    "keywords": "AR Argentine Republic Argentina República"
+  },
+  {
+    "value": "America/Argentina/Mendoza",
+    "label": "America/Argentina/Mendoza",
+    "keywords": "AR Argentine Republic Argentina República"
+  },
+  {
+    "value": "America/Argentina/San_Luis",
+    "label": "America/Argentina/San_Luis",
+    "keywords": "AR Argentine Republic Argentina República"
+  },
+  {
+    "value": "America/Argentina/Rio_Gallegos",
+    "label": "America/Argentina/Rio_Gallegos",
+    "keywords": "AR Argentine Republic Argentina República"
+  },
+  {
+    "value": "America/Argentina/Ushuaia",
+    "label": "America/Argentina/Ushuaia",
+    "keywords": "AR Argentine Republic Argentina República"
+  },
+  {
+    "value": "Pacific/Pago_Pago",
+    "label": "Pacific/Pago_Pago",
+    "keywords": "AS American Samoa Sāmoa Amelika"
+  },
+  {
+    "value": "Europe/Vienna",
+    "label": "Europe/Vienna",
+    "keywords": "AT Republic of Austria Österreich Republik"
+  },
+  {
+    "value": "Australia/Lord_Howe",
+    "label": "Australia/Lord_Howe",
+    "keywords": "AU Commonwealth of Australia"
+  },
+  {
+    "value": "Antarctica/Macquarie",
+    "label": "Antarctica/Macquarie",
+    "keywords": "AU Commonwealth of Australia"
+  },
+  {
+    "value": "Australia/Hobart",
+    "label": "Australia/Hobart",
+    "keywords": "AU Commonwealth of Australia"
+  },
+  {
+    "value": "Australia/Currie",
+    "label": "Australia/Currie",
+    "keywords": "AU Commonwealth of Australia"
+  },
+  {
+    "value": "Australia/Melbourne",
+    "label": "Australia/Melbourne",
+    "keywords": "AU Commonwealth of Australia"
+  },
+  {
+    "value": "Australia/Sydney",
+    "label": "Australia/Sydney",
+    "keywords": "AU Commonwealth of Australia"
+  },
+  {
+    "value": "Australia/Broken_Hill",
+    "label": "Australia/Broken_Hill",
+    "keywords": "AU Commonwealth of Australia"
+  },
+  {
+    "value": "Australia/Brisbane",
+    "label": "Australia/Brisbane",
+    "keywords": "AU Commonwealth of Australia"
+  },
+  {
+    "value": "Australia/Lindeman",
+    "label": "Australia/Lindeman",
+    "keywords": "AU Commonwealth of Australia"
+  },
+  {
+    "value": "Australia/Adelaide",
+    "label": "Australia/Adelaide",
+    "keywords": "AU Commonwealth of Australia"
+  },
+  {
+    "value": "Australia/Darwin",
+    "label": "Australia/Darwin",
+    "keywords": "AU Commonwealth of Australia"
+  },
+  {
+    "value": "Australia/Perth",
+    "label": "Australia/Perth",
+    "keywords": "AU Commonwealth of Australia"
+  },
+  {
+    "value": "Australia/Eucla",
+    "label": "Australia/Eucla",
+    "keywords": "AU Commonwealth of Australia"
+  },
+  {
+    "value": "America/Aruba",
+    "label": "America/Aruba",
+    "keywords": "AW Aruba"
+  },
+  {
+    "value": "Europe/Mariehamn",
+    "label": "Europe/Mariehamn",
+    "keywords": "AX Åland Islands Landskapet"
+  },
+  {
+    "value": "Asia/Baku",
+    "label": "Asia/Baku",
+    "keywords": "AZ Republic of Azerbaijan Azərbaycan Respublikası Азербайджан Азербайджанская Республика"
+  },
+  {
+    "value": "Europe/Sarajevo",
+    "label": "Europe/Sarajevo",
+    "keywords": "BA Bosnia and Herzegovina Bosna i Hercegovina Боснa и Херцеговина"
+  },
+  {
+    "value": "America/Barbados",
+    "label": "America/Barbados",
+    "keywords": "BB Barbados"
+  },
+  {
+    "value": "Asia/Dhaka",
+    "label": "Asia/Dhaka",
+    "keywords": "BD People's Republic of Bangladesh বাংলাদেশ গণপ্রজাতন্ত্রী"
+  },
+  {
+    "value": "Europe/Brussels",
+    "label": "Europe/Brussels",
+    "keywords": "BE Kingdom of Belgium Belgien Königreich Belgique Royaume de België Koninkrijk"
+  },
+  {
+    "value": "Africa/Ouagadougou",
+    "label": "Africa/Ouagadougou",
+    "keywords": "BF Burkina Faso République du"
+  },
+  {
+    "value": "Europe/Sofia",
+    "label": "Europe/Sofia",
+    "keywords": "BG Republic of Bulgaria България Република"
+  },
+  {
+    "value": "Asia/Bahrain",
+    "label": "Asia/Bahrain",
+    "keywords": "BH Kingdom of Bahrain ‏البحرين مملكة البحرين"
+  },
+  {
+    "value": "Africa/Bujumbura",
+    "label": "Africa/Bujumbura",
+    "keywords": "BI Republic of Burundi République du Uburundi Republika y'Uburundi "
+  },
+  {
+    "value": "Africa/Porto-Novo",
+    "label": "Africa/Porto-Novo",
+    "keywords": "BJ Republic of Benin Bénin République du"
+  },
+  {
+    "value": "America/St_Barthelemy",
+    "label": "America/St_Barthelemy",
+    "keywords": "BL Collectivity of Saint Barthélemy Saint-Barthélemy Collectivité de"
+  },
+  {
+    "value": "Atlantic/Bermuda",
+    "label": "Atlantic/Bermuda",
+    "keywords": "BM Bermuda"
+  },
+  {
+    "value": "Asia/Brunei",
+    "label": "Asia/Brunei",
+    "keywords": "BN Nation of Brunei Abode Peace Negara Darussalam Damai"
+  },
+  {
+    "value": "America/La_Paz",
+    "label": "America/La_Paz",
+    "keywords": "BO Plurinational State of Bolivia Wuliwya Suyu Volívia Tetã Buliwya Mamallaqta Estado Plurinacional de"
+  },
+  {
+    "value": "America/Kralendijk",
+    "label": "America/Kralendijk",
+    "keywords": "BQ"
+  },
+  {
+    "value": "America/Noronha",
+    "label": "America/Noronha",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Belem",
+    "label": "America/Belem",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Fortaleza",
+    "label": "America/Fortaleza",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Recife",
+    "label": "America/Recife",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Araguaina",
+    "label": "America/Araguaina",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Maceio",
+    "label": "America/Maceio",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Bahia",
+    "label": "America/Bahia",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Sao_Paulo",
+    "label": "America/Sao_Paulo",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Campo_Grande",
+    "label": "America/Campo_Grande",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Cuiaba",
+    "label": "America/Cuiaba",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Santarem",
+    "label": "America/Santarem",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Porto_Velho",
+    "label": "America/Porto_Velho",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Boa_Vista",
+    "label": "America/Boa_Vista",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Manaus",
+    "label": "America/Manaus",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Eirunepe",
+    "label": "America/Eirunepe",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Rio_Branco",
+    "label": "America/Rio_Branco",
+    "keywords": "BR Federative Republic of Brazil Brasil República Federativa do"
+  },
+  {
+    "value": "America/Nassau",
+    "label": "America/Nassau",
+    "keywords": "BS Commonwealth of the Bahamas"
+  },
+  {
+    "value": "Asia/Thimphu",
+    "label": "Asia/Thimphu",
+    "keywords": "BT Kingdom of Bhutan འབྲུག་ཡུལ་ འབྲུག་རྒྱལ་ཁབ་"
+  },
+  {
+    "value": "Africa/Gaborone",
+    "label": "Africa/Gaborone",
+    "keywords": "BW Republic of Botswana Lefatshe la"
+  },
+  {
+    "value": "Europe/Minsk",
+    "label": "Europe/Minsk",
+    "keywords": "BY Republic of Belarus Белару́сь Рэспубліка Беларусь Республика"
+  },
+  {
+    "value": "America/Belize",
+    "label": "America/Belize",
+    "keywords": "BZ Belize Belice"
+  },
+  {
+    "value": "America/St_Johns",
+    "label": "America/St_Johns",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Halifax",
+    "label": "America/Halifax",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Glace_Bay",
+    "label": "America/Glace_Bay",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Moncton",
+    "label": "America/Moncton",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Goose_Bay",
+    "label": "America/Goose_Bay",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Blanc-Sablon",
+    "label": "America/Blanc-Sablon",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Toronto",
+    "label": "America/Toronto",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Nipigon",
+    "label": "America/Nipigon",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Thunder_Bay",
+    "label": "America/Thunder_Bay",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Iqaluit",
+    "label": "America/Iqaluit",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Pangnirtung",
+    "label": "America/Pangnirtung",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Atikokan",
+    "label": "America/Atikokan",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Winnipeg",
+    "label": "America/Winnipeg",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Rainy_River",
+    "label": "America/Rainy_River",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Resolute",
+    "label": "America/Resolute",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Rankin_Inlet",
+    "label": "America/Rankin_Inlet",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Regina",
+    "label": "America/Regina",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Swift_Current",
+    "label": "America/Swift_Current",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Edmonton",
+    "label": "America/Edmonton",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Cambridge_Bay",
+    "label": "America/Cambridge_Bay",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Yellowknife",
+    "label": "America/Yellowknife",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Inuvik",
+    "label": "America/Inuvik",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Creston",
+    "label": "America/Creston",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Dawson_Creek",
+    "label": "America/Dawson_Creek",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Fort_Nelson",
+    "label": "America/Fort_Nelson",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Vancouver",
+    "label": "America/Vancouver",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Whitehorse",
+    "label": "America/Whitehorse",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "America/Dawson",
+    "label": "America/Dawson",
+    "keywords": "CA Canada"
+  },
+  {
+    "value": "Indian/Cocos",
+    "label": "Indian/Cocos",
+    "keywords": "CC Territory of the Cocos (Keeling) Islands"
+  },
+  {
+    "value": "Africa/Kinshasa",
+    "label": "Africa/Kinshasa",
+    "keywords": "CD Democratic Republic of the Congo DR RD République démocratique du Repubilika ya Kongo Demokratiki Republiki Kongó Ditunga dia Kongu wa Mungalaata Jamhuri Kidemokrasia"
+  },
+  {
+    "value": "Africa/Lubumbashi",
+    "label": "Africa/Lubumbashi",
+    "keywords": "CD Democratic Republic of the Congo DR RD République démocratique du Repubilika ya Kongo Demokratiki Republiki Kongó Ditunga dia Kongu wa Mungalaata Jamhuri Kidemokrasia"
+  },
+  {
+    "value": "Africa/Bangui",
+    "label": "Africa/Bangui",
+    "keywords": "CF Central African Republic République centrafricaine Bêafrîka Ködörösêse tî"
+  },
+  {
+    "value": "Africa/Brazzaville",
+    "label": "Africa/Brazzaville",
+    "keywords": "CG Republic of the Congo République du Repubilika ya Kongo Republíki Kongó"
+  },
+  {
+    "value": "Europe/Zurich",
+    "label": "Europe/Zurich",
+    "keywords": "CH Swiss Confederation Switzerland Suisse Confédération suisse Schweiz Schweizerische Eidgenossenschaft Svizzera Confederazione Svizra Confederaziun svizra"
+  },
+  {
+    "value": "Africa/Abidjan",
+    "label": "Africa/Abidjan",
+    "keywords": "CI Republic of Côte d'Ivoire Ivory Coast République de"
+  },
+  {
+    "value": "Pacific/Rarotonga",
+    "label": "Pacific/Rarotonga",
+    "keywords": "CK Cook Islands Kūki 'Āirani"
+  },
+  {
+    "value": "America/Santiago",
+    "label": "America/Santiago",
+    "keywords": "CL Republic of Chile República de"
+  },
+  {
+    "value": "America/Punta_Arenas",
+    "label": "America/Punta_Arenas",
+    "keywords": "CL Republic of Chile República de"
+  },
+  {
+    "value": "Pacific/Easter",
+    "label": "Pacific/Easter",
+    "keywords": "CL Republic of Chile República de"
+  },
+  {
+    "value": "Africa/Douala",
+    "label": "Africa/Douala",
+    "keywords": "CM Republic of Cameroon Cameroun République du"
+  },
+  {
+    "value": "Asia/Shanghai",
+    "label": "Asia/Shanghai",
+    "keywords": "CN People's Republic of China 中国 中华人民共和国"
+  },
+  {
+    "value": "Asia/Urumqi",
+    "label": "Asia/Urumqi",
+    "keywords": "CN People's Republic of China 中国 中华人民共和国"
+  },
+  {
+    "value": "America/Bogota",
+    "label": "America/Bogota",
+    "keywords": "CO Republic of Colombia República de"
+  },
+  {
+    "value": "America/Costa_Rica",
+    "label": "America/Costa_Rica",
+    "keywords": "CR Republic of Costa Rica República de"
+  },
+  {
+    "value": "America/Havana",
+    "label": "America/Havana",
+    "keywords": "CU Republic of Cuba República de"
+  },
+  {
+    "value": "Atlantic/Cape_Verde",
+    "label": "Atlantic/Cape_Verde",
+    "keywords": "CV Republic of Cabo Verde Cape República de"
+  },
+  {
+    "value": "America/Curacao",
+    "label": "America/Curacao",
+    "keywords": "CW Country of Curaçao Land Pais Kòrsou"
+  },
+  {
+    "value": "Indian/Christmas",
+    "label": "Indian/Christmas",
+    "keywords": "CX Territory of Christmas Island"
+  },
+  {
+    "value": "Asia/Nicosia",
+    "label": "Asia/Nicosia",
+    "keywords": "CY Republic of Cyprus Κύπρος Δημοκρατία της Kıbrıs Cumhuriyeti"
+  },
+  {
+    "value": "Asia/Famagusta",
+    "label": "Asia/Famagusta",
+    "keywords": "CY Republic of Cyprus Κύπρος Δημοκρατία της Kıbrıs Cumhuriyeti"
+  },
+  {
+    "value": "Europe/Prague",
+    "label": "Europe/Prague",
+    "keywords": "CZ Czech Republic Česká republika česká"
+  },
+  {
+    "value": "Europe/Berlin",
+    "label": "Europe/Berlin",
+    "keywords": "DE Federal Republic of Germany Deutschland Bundesrepublik"
+  },
+  {
+    "value": "Europe/Busingen",
+    "label": "Europe/Busingen",
+    "keywords": "DE Federal Republic of Germany Deutschland Bundesrepublik"
+  },
+  {
+    "value": "Africa/Djibouti",
+    "label": "Africa/Djibouti",
+    "keywords": "DJ Republic of Djibouti جيبوتي‎ جمهورية جيبوتي République de"
+  },
+  {
+    "value": "Europe/Copenhagen",
+    "label": "Europe/Copenhagen",
+    "keywords": "DK Kingdom of Denmark Danmark Kongeriget"
+  },
+  {
+    "value": "America/Dominica",
+    "label": "America/Dominica",
+    "keywords": "DM Commonwealth of Dominica"
+  },
+  {
+    "value": "America/Santo_Domingo",
+    "label": "America/Santo_Domingo",
+    "keywords": "DO Dominican Republic República Dominicana"
+  },
+  {
+    "value": "Africa/Algiers",
+    "label": "Africa/Algiers",
+    "keywords": "DZ People's Democratic Republic of Algeria الجزائر الجمهورية الديمقراطية الشعبية الجزائرية"
+  },
+  {
+    "value": "America/Guayaquil",
+    "label": "America/Guayaquil",
+    "keywords": "EC Republic of Ecuador República del"
+  },
+  {
+    "value": "Pacific/Galapagos",
+    "label": "Pacific/Galapagos",
+    "keywords": "EC Republic of Ecuador República del"
+  },
+  {
+    "value": "Europe/Tallinn",
+    "label": "Europe/Tallinn",
+    "keywords": "EE Republic of Estonia Eesti Vabariik"
+  },
+  {
+    "value": "Africa/Cairo",
+    "label": "Africa/Cairo",
+    "keywords": "EG Arab Republic of Egypt مصر جمهورية العربية"
+  },
+  {
+    "value": "Africa/El_Aaiun",
+    "label": "Africa/El_Aaiun",
+    "keywords": "EH Sahrawi Arab Democratic Republic Western Sahara الصحراء الغربية الجمهورية العربية الصحراوية الديمقراطية Occidental República Árabe Saharaui Democrática"
+  },
+  {
+    "value": "Africa/Asmara",
+    "label": "Africa/Asmara",
+    "keywords": "ER State of Eritrea إرتريا‎ دولة إرتريا ኤርትራ ሃገረ"
+  },
+  {
+    "value": "Europe/Madrid",
+    "label": "Europe/Madrid",
+    "keywords": "ES Kingdom of Spain Espanya Regne d'Espanya Espainia Espainiako Erresuma Reino de España Espanha Reialme d'Espanha"
+  },
+  {
+    "value": "Africa/Ceuta",
+    "label": "Africa/Ceuta",
+    "keywords": "ES Kingdom of Spain Espanya Regne d'Espanya Espainia Espainiako Erresuma Reino de España Espanha Reialme d'Espanha"
+  },
+  {
+    "value": "Atlantic/Canary",
+    "label": "Atlantic/Canary",
+    "keywords": "ES Kingdom of Spain Espanya Regne d'Espanya Espainia Espainiako Erresuma Reino de España Espanha Reialme d'Espanha"
+  },
+  {
+    "value": "Africa/Addis_Ababa",
+    "label": "Africa/Addis_Ababa",
+    "keywords": "ET Federal Democratic Republic of Ethiopia ኢትዮጵያ የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+  },
+  {
+    "value": "Europe/Helsinki",
+    "label": "Europe/Helsinki",
+    "keywords": "FI Republic of Finland Suomi Suomen tasavalta Republiken"
+  },
+  {
+    "value": "Pacific/Fiji",
+    "label": "Pacific/Fiji",
+    "keywords": "FJ Republic of Fiji Viti Matanitu Tugalala o फिजी रिपब्लिक ऑफ फीजी"
+  },
+  {
+    "value": "Atlantic/Stanley",
+    "label": "Atlantic/Stanley",
+    "keywords": "FK Falkland Islands"
+  },
+  {
+    "value": "Pacific/Chuuk",
+    "label": "Pacific/Chuuk",
+    "keywords": "FM Federated States of Micronesia"
+  },
+  {
+    "value": "Pacific/Pohnpei",
+    "label": "Pacific/Pohnpei",
+    "keywords": "FM Federated States of Micronesia"
+  },
+  {
+    "value": "Pacific/Kosrae",
+    "label": "Pacific/Kosrae",
+    "keywords": "FM Federated States of Micronesia"
+  },
+  {
+    "value": "Atlantic/Faroe",
+    "label": "Atlantic/Faroe",
+    "keywords": "FO Faroe Islands Færøerne Føroyar"
+  },
+  {
+    "value": "Europe/Paris",
+    "label": "Europe/Paris",
+    "keywords": "FR French Republic France République française"
+  },
+  {
+    "value": "Africa/Libreville",
+    "label": "Africa/Libreville",
+    "keywords": "GA Gabonese Republic Gabon République gabonaise"
+  },
+  {
+    "value": "Europe/London",
+    "label": "Europe/London",
+    "keywords": "GB United Kingdom of Great Britain and Northern Ireland"
+  },
+  {
+    "value": "America/Grenada",
+    "label": "America/Grenada",
+    "keywords": "GD Grenada"
+  },
+  {
+    "value": "Asia/Tbilisi",
+    "label": "Asia/Tbilisi",
+    "keywords": "GE Georgia საქართველო"
+  },
+  {
+    "value": "America/Cayenne",
+    "label": "America/Cayenne",
+    "keywords": "GF Guiana French Guyane française Guyanes"
+  },
+  {
+    "value": "Europe/Guernsey",
+    "label": "Europe/Guernsey",
+    "keywords": "GG Bailiwick of Guernsey Guernesey Bailliage de Dgèrnésiais"
+  },
+  {
+    "value": "Africa/Accra",
+    "label": "Africa/Accra",
+    "keywords": "GH Republic of Ghana"
+  },
+  {
+    "value": "Europe/Gibraltar",
+    "label": "Europe/Gibraltar",
+    "keywords": "GI Gibraltar"
+  },
+  {
+    "value": "America/Godthab",
+    "label": "America/Godthab",
+    "keywords": "GL Greenland Kalaallit Nunaat"
+  },
+  {
+    "value": "America/Danmarkshavn",
+    "label": "America/Danmarkshavn",
+    "keywords": "GL Greenland Kalaallit Nunaat"
+  },
+  {
+    "value": "America/Scoresbysund",
+    "label": "America/Scoresbysund",
+    "keywords": "GL Greenland Kalaallit Nunaat"
+  },
+  {
+    "value": "America/Thule",
+    "label": "America/Thule",
+    "keywords": "GL Greenland Kalaallit Nunaat"
+  },
+  {
+    "value": "Africa/Banjul",
+    "label": "Africa/Banjul",
+    "keywords": "GM Republic of the Gambia"
+  },
+  {
+    "value": "Africa/Conakry",
+    "label": "Africa/Conakry",
+    "keywords": "GN Republic of Guinea Guinée République de"
+  },
+  {
+    "value": "America/Guadeloupe",
+    "label": "America/Guadeloupe",
+    "keywords": "GP Guadeloupe"
+  },
+  {
+    "value": "Africa/Malabo",
+    "label": "Africa/Malabo",
+    "keywords": "GQ Republic of Equatorial Guinea Guinée équatoriale République de la Équatoriale Guiné República da Ecuatorial"
+  },
+  {
+    "value": "Europe/Athens",
+    "label": "Europe/Athens",
+    "keywords": "GR Hellenic Republic Greece Ελλάδα Ελληνική Δημοκρατία"
+  },
+  {
+    "value": "Atlantic/South_Georgia",
+    "label": "Atlantic/South_Georgia",
+    "keywords": "GS South Georgia and the Sandwich Islands"
+  },
+  {
+    "value": "America/Guatemala",
+    "label": "America/Guatemala",
+    "keywords": "GT Republic of Guatemala República de"
+  },
+  {
+    "value": "Pacific/Guam",
+    "label": "Pacific/Guam",
+    "keywords": "GU Guam Guåhån"
+  },
+  {
+    "value": "Africa/Bissau",
+    "label": "Africa/Bissau",
+    "keywords": "GW Republic of Guinea-Bissau Guiné-Bissau República da"
+  },
+  {
+    "value": "America/Guyana",
+    "label": "America/Guyana",
+    "keywords": "GY Co-operative Republic of Guyana"
+  },
+  {
+    "value": "Asia/Hong_Kong",
+    "label": "Asia/Hong_Kong",
+    "keywords": "HK Hong Kong Special Administrative Region of the People's Republic China 香港 中华人民共和国香港特别行政区"
+  },
+  {
+    "value": "America/Tegucigalpa",
+    "label": "America/Tegucigalpa",
+    "keywords": "HN Republic of Honduras República de"
+  },
+  {
+    "value": "Europe/Zagreb",
+    "label": "Europe/Zagreb",
+    "keywords": "HR Republic of Croatia Hrvatska Republika"
+  },
+  {
+    "value": "America/Port-au-Prince",
+    "label": "America/Port-au-Prince",
+    "keywords": "HT Republic of Haiti Haïti République d'Haïti Ayiti Repiblik"
+  },
+  {
+    "value": "Europe/Budapest",
+    "label": "Europe/Budapest",
+    "keywords": "HU Hungary Magyarország"
+  },
+  {
+    "value": "Asia/Jakarta",
+    "label": "Asia/Jakarta",
+    "keywords": "ID Republic of Indonesia Republik"
+  },
+  {
+    "value": "Asia/Pontianak",
+    "label": "Asia/Pontianak",
+    "keywords": "ID Republic of Indonesia Republik"
+  },
+  {
+    "value": "Asia/Makassar",
+    "label": "Asia/Makassar",
+    "keywords": "ID Republic of Indonesia Republik"
+  },
+  {
+    "value": "Asia/Jayapura",
+    "label": "Asia/Jayapura",
+    "keywords": "ID Republic of Indonesia Republik"
+  },
+  {
+    "value": "Europe/Dublin",
+    "label": "Europe/Dublin",
+    "keywords": "IE Republic of Ireland Éire Poblacht na hÉireann"
+  },
+  {
+    "value": "Asia/Jerusalem",
+    "label": "Asia/Jerusalem",
+    "keywords": "IL State of Israel إسرائيل دولة ישראל מדינת"
+  },
+  {
+    "value": "Europe/Isle_of_Man",
+    "label": "Europe/Isle_of_Man",
+    "keywords": "IM Isle of Man Mannin Ellan Vannin or"
+  },
+  {
+    "value": "Asia/Kolkata",
+    "label": "Asia/Kolkata",
+    "keywords": "IN Republic of India भारत गणराज्य இந்தியா இந்தியக் குடியரசு"
+  },
+  {
+    "value": "Indian/Chagos",
+    "label": "Indian/Chagos",
+    "keywords": "IO British Indian Ocean Territory"
+  },
+  {
+    "value": "Asia/Baghdad",
+    "label": "Asia/Baghdad",
+    "keywords": "IQ Republic of Iraq العراق جمهورية ܩܘܼܛܢܵܐ ܐܝܼܪܲܩ کۆماری عێراق"
+  },
+  {
+    "value": "Asia/Tehran",
+    "label": "Asia/Tehran",
+    "keywords": "IR Islamic Republic of Iran ایران جمهوری اسلامی"
+  },
+  {
+    "value": "Atlantic/Reykjavik",
+    "label": "Atlantic/Reykjavik",
+    "keywords": "IS Iceland Ísland"
+  },
+  {
+    "value": "Europe/Rome",
+    "label": "Europe/Rome",
+    "keywords": "IT Italian Republic Italy Italien Italienische Republik Italia Repubblica italiana Repubbricanu"
+  },
+  {
+    "value": "Europe/Jersey",
+    "label": "Europe/Jersey",
+    "keywords": "JE Bailiwick of Jersey Bailliage de Jèrri dé"
+  },
+  {
+    "value": "America/Jamaica",
+    "label": "America/Jamaica",
+    "keywords": "JM Jamaica"
+  },
+  {
+    "value": "Asia/Amman",
+    "label": "Asia/Amman",
+    "keywords": "JO Hashemite Kingdom of Jordan الأردن المملكة الأردنية الهاشمية"
+  },
+  {
+    "value": "Asia/Tokyo",
+    "label": "Asia/Tokyo",
+    "keywords": "JP Japan 日本"
+  },
+  {
+    "value": "Africa/Nairobi",
+    "label": "Africa/Nairobi",
+    "keywords": "KE Republic of Kenya"
+  },
+  {
+    "value": "Asia/Bishkek",
+    "label": "Asia/Bishkek",
+    "keywords": "KG Kyrgyz Republic Kyrgyzstan Кыргызстан Кыргыз Республикасы Киргизия Кыргызская Республика"
+  },
+  {
+    "value": "Asia/Phnom_Penh",
+    "label": "Asia/Phnom_Penh",
+    "keywords": "KH Kingdom of Cambodia Kâmpŭchéa ព្រះរាជាណាចក្រកម្ពុជា"
+  },
+  {
+    "value": "Pacific/Tarawa",
+    "label": "Pacific/Tarawa",
+    "keywords": "KI Independent and Sovereign Republic of Kiribati Ribaberiki"
+  },
+  {
+    "value": "Pacific/Enderbury",
+    "label": "Pacific/Enderbury",
+    "keywords": "KI Independent and Sovereign Republic of Kiribati Ribaberiki"
+  },
+  {
+    "value": "Pacific/Kiritimati",
+    "label": "Pacific/Kiritimati",
+    "keywords": "KI Independent and Sovereign Republic of Kiribati Ribaberiki"
+  },
+  {
+    "value": "Indian/Comoro",
+    "label": "Indian/Comoro",
+    "keywords": "KM Union of the Comoros القمر‎ الاتحاد القمري Comores des Komori Udzima wa"
+  },
+  {
+    "value": "America/St_Kitts",
+    "label": "America/St_Kitts",
+    "keywords": "KN Federation of Saint Christopher and Nevisa Kitts Nevis"
+  },
+  {
+    "value": "Asia/Pyongyang",
+    "label": "Asia/Pyongyang",
+    "keywords": "KP Democratic People's Republic of Korea North 북한 조선 민주주의 인민 공화국"
+  },
+  {
+    "value": "Asia/Seoul",
+    "label": "Asia/Seoul",
+    "keywords": "KR Republic of Korea South 대한민국 한국"
+  },
+  {
+    "value": "Asia/Kuwait",
+    "label": "Asia/Kuwait",
+    "keywords": "KW State of Kuwait الكويت دولة"
+  },
+  {
+    "value": "America/Cayman",
+    "label": "America/Cayman",
+    "keywords": "KY Cayman Islands"
+  },
+  {
+    "value": "Asia/Almaty",
+    "label": "Asia/Almaty",
+    "keywords": "KZ Republic of Kazakhstan Қазақстан Республикасы Казахстан Республика"
+  },
+  {
+    "value": "Asia/Qyzylorda",
+    "label": "Asia/Qyzylorda",
+    "keywords": "KZ Republic of Kazakhstan Қазақстан Республикасы Казахстан Республика"
+  },
+  {
+    "value": "Asia/Aqtobe",
+    "label": "Asia/Aqtobe",
+    "keywords": "KZ Republic of Kazakhstan Қазақстан Республикасы Казахстан Республика"
+  },
+  {
+    "value": "Asia/Aqtau",
+    "label": "Asia/Aqtau",
+    "keywords": "KZ Republic of Kazakhstan Қазақстан Республикасы Казахстан Республика"
+  },
+  {
+    "value": "Asia/Atyrau",
+    "label": "Asia/Atyrau",
+    "keywords": "KZ Republic of Kazakhstan Қазақстан Республикасы Казахстан Республика"
+  },
+  {
+    "value": "Asia/Oral",
+    "label": "Asia/Oral",
+    "keywords": "KZ Republic of Kazakhstan Қазақстан Республикасы Казахстан Республика"
+  },
+  {
+    "value": "Asia/Vientiane",
+    "label": "Asia/Vientiane",
+    "keywords": "LA Lao People's Democratic Republic Laos ສປປລາວ ສາທາລະນະ ຊາທິປະໄຕ ຄົນລາວ ຂອງ"
+  },
+  {
+    "value": "Asia/Beirut",
+    "label": "Asia/Beirut",
+    "keywords": "LB Lebanese Republic Lebanon لبنان الجمهورية اللبنانية Liban République libanaise"
+  },
+  {
+    "value": "America/St_Lucia",
+    "label": "America/St_Lucia",
+    "keywords": "LC Saint Lucia"
+  },
+  {
+    "value": "Europe/Vaduz",
+    "label": "Europe/Vaduz",
+    "keywords": "LI Principality of Liechtenstein Fürstentum"
+  },
+  {
+    "value": "Asia/Colombo",
+    "label": "Asia/Colombo",
+    "keywords": "LK Democratic Socialist Republic of Sri Lanka ශ්‍රී ලංකාව ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය இலங்கை சனநாயக சோசலிசக் குடியரசு"
+  },
+  {
+    "value": "Africa/Monrovia",
+    "label": "Africa/Monrovia",
+    "keywords": "LR Republic of Liberia"
+  },
+  {
+    "value": "Africa/Maseru",
+    "label": "Africa/Maseru",
+    "keywords": "LS Kingdom of Lesotho"
+  },
+  {
+    "value": "Europe/Vilnius",
+    "label": "Europe/Vilnius",
+    "keywords": "LT Republic of Lithuania Lietuva Lietuvos Respublikos"
+  },
+  {
+    "value": "Europe/Luxembourg",
+    "label": "Europe/Luxembourg",
+    "keywords": "LU Grand Duchy of Luxembourg Luxemburg Großherzogtum Grand-Duché de Lëtzebuerg Groussherzogtum"
+  },
+  {
+    "value": "Europe/Riga",
+    "label": "Europe/Riga",
+    "keywords": "LV Republic of Latvia Latvija Latvijas Republikas"
+  },
+  {
+    "value": "Africa/Tripoli",
+    "label": "Africa/Tripoli",
+    "keywords": "LY State of Libya ‏ليبيا الدولة ليبيا"
+  },
+  {
+    "value": "Africa/Casablanca",
+    "label": "Africa/Casablanca",
+    "keywords": "MA Kingdom of Morocco المغرب المملكة المغربية ⵍⵎⴰⵖⵔⵉⴱ ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ"
+  },
+  {
+    "value": "Europe/Monaco",
+    "label": "Europe/Monaco",
+    "keywords": "MC Principality of Monaco Principauté de"
+  },
+  {
+    "value": "Europe/Chisinau",
+    "label": "Europe/Chisinau",
+    "keywords": "MD Republic of Moldova Republica"
+  },
+  {
+    "value": "Europe/Podgorica",
+    "label": "Europe/Podgorica",
+    "keywords": "ME Montenegro Црна Гора"
+  },
+  {
+    "value": "America/Marigot",
+    "label": "America/Marigot",
+    "keywords": "MF Saint Martin Saint-Martin"
+  },
+  {
+    "value": "Indian/Antananarivo",
+    "label": "Indian/Antananarivo",
+    "keywords": "MG Republic of Madagascar République de Madagasikara Repoblikan'i"
+  },
+  {
+    "value": "Pacific/Majuro",
+    "label": "Pacific/Majuro",
+    "keywords": "MH Republic of the Marshall Islands M̧ajeļ"
+  },
+  {
+    "value": "Pacific/Kwajalein",
+    "label": "Pacific/Kwajalein",
+    "keywords": "MH Republic of the Marshall Islands M̧ajeļ"
+  },
+  {
+    "value": "Europe/Skopje",
+    "label": "Europe/Skopje",
+    "keywords": "MK Republic of Macedonia Македонија Република"
+  },
+  {
+    "value": "Africa/Bamako",
+    "label": "Africa/Bamako",
+    "keywords": "ML Republic of Mali République du"
+  },
+  {
+    "value": "Asia/Yangon",
+    "label": "Asia/Yangon",
+    "keywords": "MM Republic of the Union Myanmar မြန်မာ ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်"
+  },
+  {
+    "value": "Asia/Ulaanbaatar",
+    "label": "Asia/Ulaanbaatar",
+    "keywords": "MN Mongolia Монгол улс"
+  },
+  {
+    "value": "Asia/Hovd",
+    "label": "Asia/Hovd",
+    "keywords": "MN Mongolia Монгол улс"
+  },
+  {
+    "value": "Asia/Choibalsan",
+    "label": "Asia/Choibalsan",
+    "keywords": "MN Mongolia Монгол улс"
+  },
+  {
+    "value": "Asia/Macau",
+    "label": "Asia/Macau",
+    "keywords": "MO Macao Special Administrative Region of the People's Republic China Macau Região Administrativa Especial de da República Popular 澳门 中华人民共和国澳门特别行政区"
+  },
+  {
+    "value": "Pacific/Saipan",
+    "label": "Pacific/Saipan",
+    "keywords": "MP Commonwealth of the Northern Mariana Islands Na Islas Mariånas Sankattan Siha"
+  },
+  {
+    "value": "America/Martinique",
+    "label": "America/Martinique",
+    "keywords": "MQ Martinique"
+  },
+  {
+    "value": "Africa/Nouakchott",
+    "label": "Africa/Nouakchott",
+    "keywords": "MR Islamic Republic of Mauritania موريتانيا الجمهورية الإسلامية الموريتانية"
+  },
+  {
+    "value": "America/Montserrat",
+    "label": "America/Montserrat",
+    "keywords": "MS Montserrat"
+  },
+  {
+    "value": "Europe/Malta",
+    "label": "Europe/Malta",
+    "keywords": "MT Republic of Malta Repubblika ta '"
+  },
+  {
+    "value": "Indian/Mauritius",
+    "label": "Indian/Mauritius",
+    "keywords": "MU Republic of Mauritius Maurice République de Moris Republik"
+  },
+  {
+    "value": "Indian/Maldives",
+    "label": "Indian/Maldives",
+    "keywords": "MV Republic of the Maldives ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ"
+  },
+  {
+    "value": "Africa/Blantyre",
+    "label": "Africa/Blantyre",
+    "keywords": "MW Republic of Malawi Malaŵi Chalo cha Dziko la"
+  },
+  {
+    "value": "America/Mexico_City",
+    "label": "America/Mexico_City",
+    "keywords": "MX United Mexican States Mexico México Estados Unidos Mexicanos"
+  },
+  {
+    "value": "America/Cancun",
+    "label": "America/Cancun",
+    "keywords": "MX United Mexican States Mexico México Estados Unidos Mexicanos"
+  },
+  {
+    "value": "America/Merida",
+    "label": "America/Merida",
+    "keywords": "MX United Mexican States Mexico México Estados Unidos Mexicanos"
+  },
+  {
+    "value": "America/Monterrey",
+    "label": "America/Monterrey",
+    "keywords": "MX United Mexican States Mexico México Estados Unidos Mexicanos"
+  },
+  {
+    "value": "America/Matamoros",
+    "label": "America/Matamoros",
+    "keywords": "MX United Mexican States Mexico México Estados Unidos Mexicanos"
+  },
+  {
+    "value": "America/Mazatlan",
+    "label": "America/Mazatlan",
+    "keywords": "MX United Mexican States Mexico México Estados Unidos Mexicanos"
+  },
+  {
+    "value": "America/Chihuahua",
+    "label": "America/Chihuahua",
+    "keywords": "MX United Mexican States Mexico México Estados Unidos Mexicanos"
+  },
+  {
+    "value": "America/Ojinaga",
+    "label": "America/Ojinaga",
+    "keywords": "MX United Mexican States Mexico México Estados Unidos Mexicanos"
+  },
+  {
+    "value": "America/Hermosillo",
+    "label": "America/Hermosillo",
+    "keywords": "MX United Mexican States Mexico México Estados Unidos Mexicanos"
+  },
+  {
+    "value": "America/Tijuana",
+    "label": "America/Tijuana",
+    "keywords": "MX United Mexican States Mexico México Estados Unidos Mexicanos"
+  },
+  {
+    "value": "America/Bahia_Banderas",
+    "label": "America/Bahia_Banderas",
+    "keywords": "MX United Mexican States Mexico México Estados Unidos Mexicanos"
+  },
+  {
+    "value": "Asia/Kuala_Lumpur",
+    "label": "Asia/Kuala_Lumpur",
+    "keywords": "MY Malaysia مليسيا"
+  },
+  {
+    "value": "Asia/Kuching",
+    "label": "Asia/Kuching",
+    "keywords": "MY Malaysia مليسيا"
+  },
+  {
+    "value": "Africa/Maputo",
+    "label": "Africa/Maputo",
+    "keywords": "MZ Republic of Mozambique Moçambique República de"
+  },
+  {
+    "value": "Africa/Windhoek",
+    "label": "Africa/Windhoek",
+    "keywords": "NA Republic of Namibia Namibië Republiek van Republik Lefatshe la"
+  },
+  {
+    "value": "Pacific/Noumea",
+    "label": "Pacific/Noumea",
+    "keywords": "NC New Caledonia Nouvelle-Calédonie"
+  },
+  {
+    "value": "Africa/Niamey",
+    "label": "Africa/Niamey",
+    "keywords": "NE Republic of Niger République du"
+  },
+  {
+    "value": "Pacific/Norfolk",
+    "label": "Pacific/Norfolk",
+    "keywords": "NF Territory of Norfolk Island Norf'k Ailen Teratri"
+  },
+  {
+    "value": "Africa/Lagos",
+    "label": "Africa/Lagos",
+    "keywords": "NG Federal Republic of Nigeria"
+  },
+  {
+    "value": "America/Managua",
+    "label": "America/Managua",
+    "keywords": "NI Republic of Nicaragua República de"
+  },
+  {
+    "value": "Europe/Amsterdam",
+    "label": "Europe/Amsterdam",
+    "keywords": "NL Netherlands Nederland"
+  },
+  {
+    "value": "Europe/Oslo",
+    "label": "Europe/Oslo",
+    "keywords": "NO Kingdom of Norway Noreg Kongeriket Norge Norgga gonagasriika"
+  },
+  {
+    "value": "Asia/Kathmandu",
+    "label": "Asia/Kathmandu",
+    "keywords": "NP Federal Democratic Republic of Nepal नेपाल संघीय लोकतान्त्रिक गणतन्त्र"
+  },
+  {
+    "value": "Pacific/Nauru",
+    "label": "Pacific/Nauru",
+    "keywords": "NR Republic of Nauru"
+  },
+  {
+    "value": "Pacific/Niue",
+    "label": "Pacific/Niue",
+    "keywords": "NU Niue Niuē"
+  },
+  {
+    "value": "Pacific/Auckland",
+    "label": "Pacific/Auckland",
+    "keywords": "NZ New Zealand Aotearoa"
+  },
+  {
+    "value": "Pacific/Chatham",
+    "label": "Pacific/Chatham",
+    "keywords": "NZ New Zealand Aotearoa"
+  },
+  {
+    "value": "Asia/Muscat",
+    "label": "Asia/Muscat",
+    "keywords": "OM Sultanate of Oman عمان سلطنة"
+  },
+  {
+    "value": "America/Panama",
+    "label": "America/Panama",
+    "keywords": "PA Republic of Panama Panamá República de"
+  },
+  {
+    "value": "America/Lima",
+    "label": "America/Lima",
+    "keywords": "PE Republic of Peru Piruw Suyu Ripuwlika Perú República del"
+  },
+  {
+    "value": "Pacific/Tahiti",
+    "label": "Pacific/Tahiti",
+    "keywords": "PF French Polynesia Polynésie française"
+  },
+  {
+    "value": "Pacific/Marquesas",
+    "label": "Pacific/Marquesas",
+    "keywords": "PF French Polynesia Polynésie française"
+  },
+  {
+    "value": "Pacific/Gambier",
+    "label": "Pacific/Gambier",
+    "keywords": "PF French Polynesia Polynésie française"
+  },
+  {
+    "value": "Pacific/Port_Moresby",
+    "label": "Pacific/Port_Moresby",
+    "keywords": "PG Independent State of Papua New Guinea Niu Gini Independen Stet bilong Niugini"
+  },
+  {
+    "value": "Pacific/Bougainville",
+    "label": "Pacific/Bougainville",
+    "keywords": "PG Independent State of Papua New Guinea Niu Gini Independen Stet bilong Niugini"
+  },
+  {
+    "value": "Asia/Manila",
+    "label": "Asia/Manila",
+    "keywords": "PH Republic of the Philippines Pilipinas"
+  },
+  {
+    "value": "Asia/Karachi",
+    "label": "Asia/Karachi",
+    "keywords": "PK Islamic Republic of Pakistan پاكستان اسلامی جمہوریۂ"
+  },
+  {
+    "value": "Europe/Warsaw",
+    "label": "Europe/Warsaw",
+    "keywords": "PL Republic of Poland Polska Rzeczpospolita"
+  },
+  {
+    "value": "America/Miquelon",
+    "label": "America/Miquelon",
+    "keywords": "PM Saint Pierre and Miquelon Saint-Pierre-et-Miquelon Collectivité territoriale de"
+  },
+  {
+    "value": "Pacific/Pitcairn",
+    "label": "Pacific/Pitcairn",
+    "keywords": "PN Pitcairn Group of Islands"
+  },
+  {
+    "value": "America/Puerto_Rico",
+    "label": "America/Puerto_Rico",
+    "keywords": "PR Commonwealth of Puerto Rico Estado Libre Asociado de"
+  },
+  {
+    "value": "Asia/Gaza",
+    "label": "Asia/Gaza",
+    "keywords": "PS State of Palestine فلسطين دولة"
+  },
+  {
+    "value": "Asia/Hebron",
+    "label": "Asia/Hebron",
+    "keywords": "PS State of Palestine فلسطين دولة"
+  },
+  {
+    "value": "Europe/Lisbon",
+    "label": "Europe/Lisbon",
+    "keywords": "PT Portuguese Republic Portugal República português"
+  },
+  {
+    "value": "Atlantic/Madeira",
+    "label": "Atlantic/Madeira",
+    "keywords": "PT Portuguese Republic Portugal República português"
+  },
+  {
+    "value": "Atlantic/Azores",
+    "label": "Atlantic/Azores",
+    "keywords": "PT Portuguese Republic Portugal República português"
+  },
+  {
+    "value": "Pacific/Palau",
+    "label": "Pacific/Palau",
+    "keywords": "PW Republic of Palau Belau Beluu er a"
+  },
+  {
+    "value": "America/Asuncion",
+    "label": "America/Asuncion",
+    "keywords": "PY Republic of Paraguay Paraguái Tetã República de"
+  },
+  {
+    "value": "Asia/Qatar",
+    "label": "Asia/Qatar",
+    "keywords": "QA State of Qatar قطر دولة"
+  },
+  {
+    "value": "Indian/Reunion",
+    "label": "Indian/Reunion",
+    "keywords": "RE Réunion Island La Ile de la"
+  },
+  {
+    "value": "Europe/Bucharest",
+    "label": "Europe/Bucharest",
+    "keywords": "RO Romania România"
+  },
+  {
+    "value": "Europe/Belgrade",
+    "label": "Europe/Belgrade",
+    "keywords": "RS Republic of Serbia Србија Република"
+  },
+  {
+    "value": "Europe/Kaliningrad",
+    "label": "Europe/Kaliningrad",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Europe/Moscow",
+    "label": "Europe/Moscow",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Europe/Simferopol",
+    "label": "Europe/Simferopol",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Europe/Volgograd",
+    "label": "Europe/Volgograd",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Europe/Kirov",
+    "label": "Europe/Kirov",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Europe/Astrakhan",
+    "label": "Europe/Astrakhan",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Europe/Saratov",
+    "label": "Europe/Saratov",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Europe/Ulyanovsk",
+    "label": "Europe/Ulyanovsk",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Europe/Samara",
+    "label": "Europe/Samara",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Yekaterinburg",
+    "label": "Asia/Yekaterinburg",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Omsk",
+    "label": "Asia/Omsk",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Novosibirsk",
+    "label": "Asia/Novosibirsk",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Barnaul",
+    "label": "Asia/Barnaul",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Tomsk",
+    "label": "Asia/Tomsk",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Novokuznetsk",
+    "label": "Asia/Novokuznetsk",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Krasnoyarsk",
+    "label": "Asia/Krasnoyarsk",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Irkutsk",
+    "label": "Asia/Irkutsk",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Chita",
+    "label": "Asia/Chita",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Yakutsk",
+    "label": "Asia/Yakutsk",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Khandyga",
+    "label": "Asia/Khandyga",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Vladivostok",
+    "label": "Asia/Vladivostok",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Ust-Nera",
+    "label": "Asia/Ust-Nera",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Magadan",
+    "label": "Asia/Magadan",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Sakhalin",
+    "label": "Asia/Sakhalin",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Srednekolymsk",
+    "label": "Asia/Srednekolymsk",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Kamchatka",
+    "label": "Asia/Kamchatka",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Asia/Anadyr",
+    "label": "Asia/Anadyr",
+    "keywords": "RU Russian Federation Russia Россия Русская Федерация"
+  },
+  {
+    "value": "Africa/Kigali",
+    "label": "Africa/Kigali",
+    "keywords": "RW Republic of Rwanda République rwandaise Repubulika y'u"
+  },
+  {
+    "value": "Asia/Riyadh",
+    "label": "Asia/Riyadh",
+    "keywords": "SA Kingdom of Saudi Arabia العربية السعودية المملكة"
+  },
+  {
+    "value": "Pacific/Guadalcanal",
+    "label": "Pacific/Guadalcanal",
+    "keywords": "SB Solomon Islands"
+  },
+  {
+    "value": "Indian/Mahe",
+    "label": "Indian/Mahe",
+    "keywords": "SC Republic of Seychelles Sesel Repiblik République des"
+  },
+  {
+    "value": "Africa/Khartoum",
+    "label": "Africa/Khartoum",
+    "keywords": "SD Republic of the Sudan السودان جمهورية"
+  },
+  {
+    "value": "Europe/Stockholm",
+    "label": "Europe/Stockholm",
+    "keywords": "SE Kingdom of Sweden Sverige Konungariket"
+  },
+  {
+    "value": "Asia/Singapore",
+    "label": "Asia/Singapore",
+    "keywords": "SG Republic of Singapore 新加坡 新加坡共和国 Singapura Republik சிங்கப்பூர் குடியரசு"
+  },
+  {
+    "value": "Atlantic/St_Helena",
+    "label": "Atlantic/St_Helena",
+    "keywords": "SH"
+  },
+  {
+    "value": "Europe/Ljubljana",
+    "label": "Europe/Ljubljana",
+    "keywords": "SI Republic of Slovenia Slovenija Republika"
+  },
+  {
+    "value": "Arctic/Longyearbyen",
+    "label": "Arctic/Longyearbyen",
+    "keywords": "SJ Svalbard og Jan Mayen and"
+  },
+  {
+    "value": "Europe/Bratislava",
+    "label": "Europe/Bratislava",
+    "keywords": "SK Slovak Republic Slovakia Slovensko Slovenská republika"
+  },
+  {
+    "value": "Africa/Freetown",
+    "label": "Africa/Freetown",
+    "keywords": "SL Republic of Sierra Leone"
+  },
+  {
+    "value": "Europe/San_Marino",
+    "label": "Europe/San_Marino",
+    "keywords": "SM Most Serene Republic of San Marino Serenissima Repubblica di"
+  },
+  {
+    "value": "Africa/Dakar",
+    "label": "Africa/Dakar",
+    "keywords": "SN Republic of Senegal Sénégal République du"
+  },
+  {
+    "value": "Africa/Mogadishu",
+    "label": "Africa/Mogadishu",
+    "keywords": "SO Federal Republic of Somalia الصومال‎‎ جمهورية Soomaaliya Jamhuuriyadda Federaalka"
+  },
+  {
+    "value": "America/Paramaribo",
+    "label": "America/Paramaribo",
+    "keywords": "SR Republic of Suriname Republiek"
+  },
+  {
+    "value": "Africa/Juba",
+    "label": "Africa/Juba",
+    "keywords": "SS Republic of South Sudan"
+  },
+  {
+    "value": "Africa/Sao_Tome",
+    "label": "Africa/Sao_Tome",
+    "keywords": "ST Democratic Republic of São Tomé and Príncipe e República Democrática do"
+  },
+  {
+    "value": "America/El_Salvador",
+    "label": "America/El_Salvador",
+    "keywords": "SV Republic of El Salvador República de"
+  },
+  {
+    "value": "America/Lower_Princes",
+    "label": "America/Lower_Princes",
+    "keywords": "SX Sint Maarten Saint-Martin"
+  },
+  {
+    "value": "Asia/Damascus",
+    "label": "Asia/Damascus",
+    "keywords": "SY Syrian Arab Republic Syria سوريا الجمهورية العربية السورية"
+  },
+  {
+    "value": "Africa/Mbabane",
+    "label": "Africa/Mbabane",
+    "keywords": "SZ Kingdom of Swaziland"
+  },
+  {
+    "value": "America/Grand_Turk",
+    "label": "America/Grand_Turk",
+    "keywords": "TC Turks and Caicos Islands"
+  },
+  {
+    "value": "Africa/Ndjamena",
+    "label": "Africa/Ndjamena",
+    "keywords": "TD Republic of Chad تشاد‎ جمهورية تشاد Tchad République du"
+  },
+  {
+    "value": "Indian/Kerguelen",
+    "label": "Indian/Kerguelen",
+    "keywords": "TF Territory of the French Southern and Antarctic Lands Terres australes et antarctiques françaises Territoire des"
+  },
+  {
+    "value": "Africa/Lome",
+    "label": "Africa/Lome",
+    "keywords": "TG Togolese Republic Togo République togolaise"
+  },
+  {
+    "value": "Asia/Bangkok",
+    "label": "Asia/Bangkok",
+    "keywords": "TH Kingdom of Thailand ประเทศไทย ราชอาณาจักรไทย"
+  },
+  {
+    "value": "Asia/Dushanbe",
+    "label": "Asia/Dushanbe",
+    "keywords": "TJ Republic of Tajikistan Таджикистан Республика Тоҷикистон Ҷумҳурии"
+  },
+  {
+    "value": "Pacific/Fakaofo",
+    "label": "Pacific/Fakaofo",
+    "keywords": "TK Tokelau"
+  },
+  {
+    "value": "Asia/Dili",
+    "label": "Asia/Dili",
+    "keywords": "TL Democratic Republic of Timor-Leste República Democrática de Timór-Leste Repúblika Demokrátika"
+  },
+  {
+    "value": "Asia/Ashgabat",
+    "label": "Asia/Ashgabat",
+    "keywords": "TM Turkmenistan Туркмения Туркменистан Türkmenistan"
+  },
+  {
+    "value": "Africa/Tunis",
+    "label": "Africa/Tunis",
+    "keywords": "TN Tunisian Republic Tunisia تونس الجمهورية التونسية"
+  },
+  {
+    "value": "Pacific/Tongatapu",
+    "label": "Pacific/Tongatapu",
+    "keywords": "TO Kingdom of Tonga"
+  },
+  {
+    "value": "Europe/Istanbul",
+    "label": "Europe/Istanbul",
+    "keywords": "TR Republic of Turkey Türkiye Cumhuriyeti"
+  },
+  {
+    "value": "America/Port_of_Spain",
+    "label": "America/Port_of_Spain",
+    "keywords": "TT Republic of Trinidad and Tobago"
+  },
+  {
+    "value": "Pacific/Funafuti",
+    "label": "Pacific/Funafuti",
+    "keywords": "TV Tuvalu"
+  },
+  {
+    "value": "Asia/Taipei",
+    "label": "Asia/Taipei",
+    "keywords": "TW Republic of China (Taiwan) Taiwan 臺灣 中华民国"
+  },
+  {
+    "value": "Africa/Dar_es_Salaam",
+    "label": "Africa/Dar_es_Salaam",
+    "keywords": "TZ United Republic of Tanzania Jamhuri ya Muungano wa"
+  },
+  {
+    "value": "Europe/Kiev",
+    "label": "Europe/Kiev",
+    "keywords": "UA Ukraine Украина Україна"
+  },
+  {
+    "value": "Europe/Uzhgorod",
+    "label": "Europe/Uzhgorod",
+    "keywords": "UA Ukraine Украина Україна"
+  },
+  {
+    "value": "Europe/Zaporozhye",
+    "label": "Europe/Zaporozhye",
+    "keywords": "UA Ukraine Украина Україна"
+  },
+  {
+    "value": "Africa/Kampala",
+    "label": "Africa/Kampala",
+    "keywords": "UG Republic of Uganda"
+  },
+  {
+    "value": "Pacific/Midway",
+    "label": "Pacific/Midway",
+    "keywords": "UM United States Minor Outlying Islands"
+  },
+  {
+    "value": "Pacific/Wake",
+    "label": "Pacific/Wake",
+    "keywords": "UM United States Minor Outlying Islands"
+  },
+  {
+    "value": "America/New_York",
+    "label": "America/New_York",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Detroit",
+    "label": "America/Detroit",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Kentucky/Louisville",
+    "label": "America/Kentucky/Louisville",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Kentucky/Monticello",
+    "label": "America/Kentucky/Monticello",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Indiana/Indianapolis",
+    "label": "America/Indiana/Indianapolis",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Indiana/Vincennes",
+    "label": "America/Indiana/Vincennes",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Indiana/Winamac",
+    "label": "America/Indiana/Winamac",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Indiana/Marengo",
+    "label": "America/Indiana/Marengo",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Indiana/Petersburg",
+    "label": "America/Indiana/Petersburg",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Indiana/Vevay",
+    "label": "America/Indiana/Vevay",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Chicago",
+    "label": "America/Chicago",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Indiana/Tell_City",
+    "label": "America/Indiana/Tell_City",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Indiana/Knox",
+    "label": "America/Indiana/Knox",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Menominee",
+    "label": "America/Menominee",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/North_Dakota/Center",
+    "label": "America/North_Dakota/Center",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/North_Dakota/New_Salem",
+    "label": "America/North_Dakota/New_Salem",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/North_Dakota/Beulah",
+    "label": "America/North_Dakota/Beulah",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Denver",
+    "label": "America/Denver",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Boise",
+    "label": "America/Boise",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Phoenix",
+    "label": "America/Phoenix",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Los_Angeles",
+    "label": "America/Los_Angeles",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Anchorage",
+    "label": "America/Anchorage",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Juneau",
+    "label": "America/Juneau",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Sitka",
+    "label": "America/Sitka",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Metlakatla",
+    "label": "America/Metlakatla",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Yakutat",
+    "label": "America/Yakutat",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Nome",
+    "label": "America/Nome",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Adak",
+    "label": "America/Adak",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "Pacific/Honolulu",
+    "label": "Pacific/Honolulu",
+    "keywords": "US United States of America"
+  },
+  {
+    "value": "America/Montevideo",
+    "label": "America/Montevideo",
+    "keywords": "UY Oriental Republic of Uruguay República del"
+  },
+  {
+    "value": "Asia/Samarkand",
+    "label": "Asia/Samarkand",
+    "keywords": "UZ Republic of Uzbekistan Узбекистан Республика O‘zbekiston O'zbekiston Respublikasi"
+  },
+  {
+    "value": "Asia/Tashkent",
+    "label": "Asia/Tashkent",
+    "keywords": "UZ Republic of Uzbekistan Узбекистан Республика O‘zbekiston O'zbekiston Respublikasi"
+  },
+  {
+    "value": "Europe/Vatican",
+    "label": "Europe/Vatican",
+    "keywords": "VA Vatican City State Vaticano Stato della Città del Vaticanæ Status Civitatis"
+  },
+  {
+    "value": "America/St_Vincent",
+    "label": "America/St_Vincent",
+    "keywords": "VC Saint Vincent and the Grenadines"
+  },
+  {
+    "value": "America/Caracas",
+    "label": "America/Caracas",
+    "keywords": "VE Bolivarian Republic of Venezuela República Bolivariana de"
+  },
+  {
+    "value": "America/Tortola",
+    "label": "America/Tortola",
+    "keywords": "VG Virgin Islands British"
+  },
+  {
+    "value": "America/St_Thomas",
+    "label": "America/St_Thomas",
+    "keywords": "VI Virgin Islands of the United States"
+  },
+  {
+    "value": "Asia/Ho_Chi_Minh",
+    "label": "Asia/Ho_Chi_Minh",
+    "keywords": "VN Socialist Republic of Vietnam Việt Nam Cộng hòa xã hội chủ nghĩa"
+  },
+  {
+    "value": "Pacific/Efate",
+    "label": "Pacific/Efate",
+    "keywords": "VU Republic of Vanuatu Ripablik blong République de"
+  },
+  {
+    "value": "Pacific/Wallis",
+    "label": "Pacific/Wallis",
+    "keywords": "WF Territory of the Wallis and Futuna Islands et Territoire des îles"
+  },
+  {
+    "value": "Pacific/Apia",
+    "label": "Pacific/Apia",
+    "keywords": "WS Independent State of Samoa Sāmoa Malo Saʻoloto Tutoʻatasi o"
+  },
+  {
+    "value": "Asia/Aden",
+    "label": "Asia/Aden",
+    "keywords": "YE Republic of Yemen اليَمَن الجمهورية اليمنية"
+  },
+  {
+    "value": "Indian/Mayotte",
+    "label": "Indian/Mayotte",
+    "keywords": "YT Department of Mayotte Département de"
+  },
+  {
+    "value": "Africa/Johannesburg",
+    "label": "Africa/Johannesburg",
+    "keywords": "ZA Republic of South Africa Republiek van Suid-Afrika Sewula Afrika IRiphabliki yeSewula Afrika-Borwa Rephaboliki ya Borwa Ningizimu IRiphabhulikhi yeNingizimu Aforika Dzonga Riphabliki ra Afurika Tshipembe Riphabuḽiki Mzantsi yaseMzantsi yaseNingizimu"
+  },
+  {
+    "value": "Africa/Lusaka",
+    "label": "Africa/Lusaka",
+    "keywords": "ZM Republic of Zambia"
+  },
+  {
+    "value": "Africa/Harare",
+    "label": "Africa/Harare",
+    "keywords": "ZW Republic of Zimbabwe"
+  }
+]

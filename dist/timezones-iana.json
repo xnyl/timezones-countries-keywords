@@ -1,0 +1,7092 @@
+[
+  {
+    "countryCode": "AD",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 42,
+        "minute": 30
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 1,
+        "minute": 31
+      }
+    },
+    "id": "Europe/Andorra"
+  },
+  {
+    "countryCode": "AE",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 25,
+        "minute": 18
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 55,
+        "minute": 18
+      }
+    },
+    "id": "Asia/Dubai"
+  },
+  {
+    "countryCode": "AF",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 34,
+        "minute": 31
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 69,
+        "minute": 12
+      }
+    },
+    "id": "Asia/Kabul"
+  },
+  {
+    "countryCode": "AG",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 17,
+        "minute": 3
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 61,
+        "minute": 48
+      }
+    },
+    "id": "America/Antigua"
+  },
+  {
+    "countryCode": "AI",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 18,
+        "minute": 12
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 63,
+        "minute": 4
+      }
+    },
+    "id": "America/Anguilla"
+  },
+  {
+    "countryCode": "AL",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 41,
+        "minute": 20
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 19,
+        "minute": 50
+      }
+    },
+    "id": "Europe/Tirane"
+  },
+  {
+    "countryCode": "AM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 40,
+        "minute": 11
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 44,
+        "minute": 30
+      }
+    },
+    "id": "Asia/Yerevan"
+  },
+  {
+    "countryCode": "AO",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 8,
+        "minute": 48
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 13,
+        "minute": 14
+      }
+    },
+    "id": "Africa/Luanda"
+  },
+  {
+    "countryCode": "AQ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 77,
+        "minute": 50
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 166,
+        "minute": 36
+      }
+    },
+    "id": "Antarctica/McMurdo",
+    "comment": "New Zealand time - McMurdo, South Pole"
+  },
+  {
+    "countryCode": "AQ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 66,
+        "minute": 17
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 110,
+        "minute": 31
+      }
+    },
+    "id": "Antarctica/Casey",
+    "comment": "Casey"
+  },
+  {
+    "countryCode": "AQ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 68,
+        "minute": 35
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 77,
+        "minute": 58
+      }
+    },
+    "id": "Antarctica/Davis",
+    "comment": "Davis"
+  },
+  {
+    "countryCode": "AQ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 66,
+        "minute": 40
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 140,
+        "minute": 1
+      }
+    },
+    "id": "Antarctica/DumontDUrville",
+    "comment": "Dumont-d'Urville"
+  },
+  {
+    "countryCode": "AQ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 67,
+        "minute": 36
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 62,
+        "minute": 53
+      }
+    },
+    "id": "Antarctica/Mawson",
+    "comment": "Mawson"
+  },
+  {
+    "countryCode": "AQ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 64,
+        "minute": 48
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 64,
+        "minute": 6
+      }
+    },
+    "id": "Antarctica/Palmer",
+    "comment": "Palmer"
+  },
+  {
+    "countryCode": "AQ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 67,
+        "minute": 34
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 68,
+        "minute": 8
+      }
+    },
+    "id": "Antarctica/Rothera",
+    "comment": "Rothera"
+  },
+  {
+    "countryCode": "AQ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 69,
+        "minute": 0,
+        "second": 22
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 39,
+        "minute": 35,
+        "second": 24
+      }
+    },
+    "id": "Antarctica/Syowa",
+    "comment": "Syowa"
+  },
+  {
+    "countryCode": "AQ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 72,
+        "minute": 0,
+        "second": 41
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 2,
+        "minute": 32,
+        "second": 6
+      }
+    },
+    "id": "Antarctica/Troll",
+    "comment": "Troll"
+  },
+  {
+    "countryCode": "AQ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 78,
+        "minute": 24
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 106,
+        "minute": 54
+      }
+    },
+    "id": "Antarctica/Vostok",
+    "comment": "Vostok"
+  },
+  {
+    "countryCode": "AR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 34,
+        "minute": 36
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 58,
+        "minute": 27
+      }
+    },
+    "id": "America/Argentina/Buenos_Aires",
+    "comment": "Buenos Aires (BA, CF)"
+  },
+  {
+    "countryCode": "AR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 31,
+        "minute": 24
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 64,
+        "minute": 11
+      }
+    },
+    "id": "America/Argentina/Cordoba",
+    "comment": "Argentina (most areas: CB, CC, CN, ER, FM, MN, SE, SF)"
+  },
+  {
+    "countryCode": "AR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 24,
+        "minute": 47
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 65,
+        "minute": 25
+      }
+    },
+    "id": "America/Argentina/Salta",
+    "comment": "Salta (SA, LP, NQ, RN)"
+  },
+  {
+    "countryCode": "AR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 24,
+        "minute": 11
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 65,
+        "minute": 18
+      }
+    },
+    "id": "America/Argentina/Jujuy",
+    "comment": "Jujuy (JY)"
+  },
+  {
+    "countryCode": "AR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 26,
+        "minute": 49
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 65,
+        "minute": 13
+      }
+    },
+    "id": "America/Argentina/Tucuman",
+    "comment": "Tucuman (TM)"
+  },
+  {
+    "countryCode": "AR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 28,
+        "minute": 28
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 65,
+        "minute": 47
+      }
+    },
+    "id": "America/Argentina/Catamarca",
+    "comment": "Catamarca (CT); Chubut (CH)"
+  },
+  {
+    "countryCode": "AR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 29,
+        "minute": 26
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 66,
+        "minute": 51
+      }
+    },
+    "id": "America/Argentina/La_Rioja",
+    "comment": "La Rioja (LR)"
+  },
+  {
+    "countryCode": "AR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 31,
+        "minute": 32
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 68,
+        "minute": 31
+      }
+    },
+    "id": "America/Argentina/San_Juan",
+    "comment": "San Juan (SJ)"
+  },
+  {
+    "countryCode": "AR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 32,
+        "minute": 53
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 68,
+        "minute": 49
+      }
+    },
+    "id": "America/Argentina/Mendoza",
+    "comment": "Mendoza (MZ)"
+  },
+  {
+    "countryCode": "AR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 33,
+        "minute": 19
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 66,
+        "minute": 21
+      }
+    },
+    "id": "America/Argentina/San_Luis",
+    "comment": "San Luis (SL)"
+  },
+  {
+    "countryCode": "AR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 51,
+        "minute": 38
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 69,
+        "minute": 13
+      }
+    },
+    "id": "America/Argentina/Rio_Gallegos",
+    "comment": "Santa Cruz (SC)"
+  },
+  {
+    "countryCode": "AR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 54,
+        "minute": 48
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 68,
+        "minute": 18
+      }
+    },
+    "id": "America/Argentina/Ushuaia",
+    "comment": "Tierra del Fuego (TF)"
+  },
+  {
+    "countryCode": "AS",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 14,
+        "minute": 16
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 170,
+        "minute": 42
+      }
+    },
+    "id": "Pacific/Pago_Pago"
+  },
+  {
+    "countryCode": "AT",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 48,
+        "minute": 13
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 16,
+        "minute": 20
+      }
+    },
+    "id": "Europe/Vienna"
+  },
+  {
+    "countryCode": "AU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 31,
+        "minute": 33
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 159,
+        "minute": 5
+      }
+    },
+    "id": "Australia/Lord_Howe",
+    "comment": "Lord Howe Island"
+  },
+  {
+    "countryCode": "AU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 54,
+        "minute": 30
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 158,
+        "minute": 57
+      }
+    },
+    "id": "Antarctica/Macquarie",
+    "comment": "Macquarie Island"
+  },
+  {
+    "countryCode": "AU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 42,
+        "minute": 53
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 147,
+        "minute": 19
+      }
+    },
+    "id": "Australia/Hobart",
+    "comment": "Tasmania (most areas)"
+  },
+  {
+    "countryCode": "AU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 39,
+        "minute": 56
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 143,
+        "minute": 52
+      }
+    },
+    "id": "Australia/Currie",
+    "comment": "Tasmania (King Island)"
+  },
+  {
+    "countryCode": "AU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 37,
+        "minute": 49
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 144,
+        "minute": 58
+      }
+    },
+    "id": "Australia/Melbourne",
+    "comment": "Victoria"
+  },
+  {
+    "countryCode": "AU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 33,
+        "minute": 52
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 151,
+        "minute": 13
+      }
+    },
+    "id": "Australia/Sydney",
+    "comment": "New South Wales (most areas)"
+  },
+  {
+    "countryCode": "AU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 31,
+        "minute": 57
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 141,
+        "minute": 27
+      }
+    },
+    "id": "Australia/Broken_Hill",
+    "comment": "New South Wales (Yancowinna)"
+  },
+  {
+    "countryCode": "AU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 27,
+        "minute": 28
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 153,
+        "minute": 2
+      }
+    },
+    "id": "Australia/Brisbane",
+    "comment": "Queensland (most areas)"
+  },
+  {
+    "countryCode": "AU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 20,
+        "minute": 16
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 149,
+        "minute": 0
+      }
+    },
+    "id": "Australia/Lindeman",
+    "comment": "Queensland (Whitsunday Islands)"
+  },
+  {
+    "countryCode": "AU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 34,
+        "minute": 55
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 138,
+        "minute": 35
+      }
+    },
+    "id": "Australia/Adelaide",
+    "comment": "South Australia"
+  },
+  {
+    "countryCode": "AU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 12,
+        "minute": 28
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 130,
+        "minute": 50
+      }
+    },
+    "id": "Australia/Darwin",
+    "comment": "Northern Territory"
+  },
+  {
+    "countryCode": "AU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 31,
+        "minute": 57
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 115,
+        "minute": 51
+      }
+    },
+    "id": "Australia/Perth",
+    "comment": "Western Australia (most areas)"
+  },
+  {
+    "countryCode": "AU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 31,
+        "minute": 43
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 128,
+        "minute": 52
+      }
+    },
+    "id": "Australia/Eucla",
+    "comment": "Western Australia (Eucla)"
+  },
+  {
+    "countryCode": "AW",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 12,
+        "minute": 30
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 69,
+        "minute": 58
+      }
+    },
+    "id": "America/Aruba"
+  },
+  {
+    "countryCode": "AX",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 60,
+        "minute": 6
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 19,
+        "minute": 57
+      }
+    },
+    "id": "Europe/Mariehamn"
+  },
+  {
+    "countryCode": "AZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 40,
+        "minute": 23
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 49,
+        "minute": 51
+      }
+    },
+    "id": "Asia/Baku"
+  },
+  {
+    "countryCode": "BA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 43,
+        "minute": 52
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 18,
+        "minute": 25
+      }
+    },
+    "id": "Europe/Sarajevo"
+  },
+  {
+    "countryCode": "BB",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 13,
+        "minute": 6
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 59,
+        "minute": 37
+      }
+    },
+    "id": "America/Barbados"
+  },
+  {
+    "countryCode": "BD",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 23,
+        "minute": 43
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 90,
+        "minute": 25
+      }
+    },
+    "id": "Asia/Dhaka"
+  },
+  {
+    "countryCode": "BE",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 50,
+        "minute": 50
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 4,
+        "minute": 20
+      }
+    },
+    "id": "Europe/Brussels"
+  },
+  {
+    "countryCode": "BF",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 12,
+        "minute": 22
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 1,
+        "minute": 31
+      }
+    },
+    "id": "Africa/Ouagadougou"
+  },
+  {
+    "countryCode": "BG",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 42,
+        "minute": 41
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 23,
+        "minute": 19
+      }
+    },
+    "id": "Europe/Sofia"
+  },
+  {
+    "countryCode": "BH",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 26,
+        "minute": 23
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 50,
+        "minute": 35
+      }
+    },
+    "id": "Asia/Bahrain"
+  },
+  {
+    "countryCode": "BI",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 3,
+        "minute": 23
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 29,
+        "minute": 22
+      }
+    },
+    "id": "Africa/Bujumbura"
+  },
+  {
+    "countryCode": "BJ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 6,
+        "minute": 29
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 2,
+        "minute": 37
+      }
+    },
+    "id": "Africa/Porto-Novo"
+  },
+  {
+    "countryCode": "BL",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 17,
+        "minute": 53
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 62,
+        "minute": 51
+      }
+    },
+    "id": "America/St_Barthelemy"
+  },
+  {
+    "countryCode": "BM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 32,
+        "minute": 17
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 64,
+        "minute": 46
+      }
+    },
+    "id": "Atlantic/Bermuda"
+  },
+  {
+    "countryCode": "BN",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 4,
+        "minute": 56
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 114,
+        "minute": 55
+      }
+    },
+    "id": "Asia/Brunei"
+  },
+  {
+    "countryCode": "BO",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 16,
+        "minute": 30
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 68,
+        "minute": 9
+      }
+    },
+    "id": "America/La_Paz"
+  },
+  {
+    "countryCode": "BQ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 12,
+        "minute": 9,
+        "second": 3
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 68,
+        "minute": 16,
+        "second": 36
+      }
+    },
+    "id": "America/Kralendijk"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 3,
+        "minute": 51
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 32,
+        "minute": 25
+      }
+    },
+    "id": "America/Noronha",
+    "comment": "Atlantic islands"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 1,
+        "minute": 27
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 48,
+        "minute": 29
+      }
+    },
+    "id": "America/Belem",
+    "comment": "Para (east); Amapa"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 3,
+        "minute": 43
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 38,
+        "minute": 30
+      }
+    },
+    "id": "America/Fortaleza",
+    "comment": "Brazil (northeast: MA, PI, CE, RN, PB)"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 8,
+        "minute": 3
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 34,
+        "minute": 54
+      }
+    },
+    "id": "America/Recife",
+    "comment": "Pernambuco"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 7,
+        "minute": 12
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 48,
+        "minute": 12
+      }
+    },
+    "id": "America/Araguaina",
+    "comment": "Tocantins"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 9,
+        "minute": 40
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 35,
+        "minute": 43
+      }
+    },
+    "id": "America/Maceio",
+    "comment": "Alagoas, Sergipe"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 12,
+        "minute": 59
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 38,
+        "minute": 31
+      }
+    },
+    "id": "America/Bahia",
+    "comment": "Bahia"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 23,
+        "minute": 32
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 46,
+        "minute": 37
+      }
+    },
+    "id": "America/Sao_Paulo",
+    "comment": "Brazil (southeast: GO, DF, MG, ES, RJ, SP, PR, SC, RS)"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 20,
+        "minute": 27
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 54,
+        "minute": 37
+      }
+    },
+    "id": "America/Campo_Grande",
+    "comment": "Mato Grosso do Sul"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 15,
+        "minute": 35
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 56,
+        "minute": 5
+      }
+    },
+    "id": "America/Cuiaba",
+    "comment": "Mato Grosso"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 2,
+        "minute": 26
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 54,
+        "minute": 52
+      }
+    },
+    "id": "America/Santarem",
+    "comment": "Para (west)"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 8,
+        "minute": 46
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 63,
+        "minute": 54
+      }
+    },
+    "id": "America/Porto_Velho",
+    "comment": "Rondonia"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 2,
+        "minute": 49
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 60,
+        "minute": 40
+      }
+    },
+    "id": "America/Boa_Vista",
+    "comment": "Roraima"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 3,
+        "minute": 8
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 60,
+        "minute": 1
+      }
+    },
+    "id": "America/Manaus",
+    "comment": "Amazonas (east)"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 6,
+        "minute": 40
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 69,
+        "minute": 52
+      }
+    },
+    "id": "America/Eirunepe",
+    "comment": "Amazonas (west)"
+  },
+  {
+    "countryCode": "BR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 9,
+        "minute": 58
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 67,
+        "minute": 48
+      }
+    },
+    "id": "America/Rio_Branco",
+    "comment": "Acre"
+  },
+  {
+    "countryCode": "BS",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 25,
+        "minute": 5
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 77,
+        "minute": 21
+      }
+    },
+    "id": "America/Nassau"
+  },
+  {
+    "countryCode": "BT",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 27,
+        "minute": 28
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 89,
+        "minute": 39
+      }
+    },
+    "id": "Asia/Thimphu"
+  },
+  {
+    "countryCode": "BW",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 24,
+        "minute": 39
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 25,
+        "minute": 55
+      }
+    },
+    "id": "Africa/Gaborone"
+  },
+  {
+    "countryCode": "BY",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 53,
+        "minute": 54
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 27,
+        "minute": 34
+      }
+    },
+    "id": "Europe/Minsk"
+  },
+  {
+    "countryCode": "BZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 17,
+        "minute": 30
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 88,
+        "minute": 12
+      }
+    },
+    "id": "America/Belize"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 47,
+        "minute": 34
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 52,
+        "minute": 43
+      }
+    },
+    "id": "America/St_Johns",
+    "comment": "Newfoundland; Labrador (southeast)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 44,
+        "minute": 39
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 63,
+        "minute": 36
+      }
+    },
+    "id": "America/Halifax",
+    "comment": "Atlantic - NS (most areas); PE"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 46,
+        "minute": 12
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 59,
+        "minute": 57
+      }
+    },
+    "id": "America/Glace_Bay",
+    "comment": "Atlantic - NS (Cape Breton)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 46,
+        "minute": 6
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 64,
+        "minute": 47
+      }
+    },
+    "id": "America/Moncton",
+    "comment": "Atlantic - New Brunswick"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 53,
+        "minute": 20
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 60,
+        "minute": 25
+      }
+    },
+    "id": "America/Goose_Bay",
+    "comment": "Atlantic - Labrador (most areas)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 51,
+        "minute": 25
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 57,
+        "minute": 7
+      }
+    },
+    "id": "America/Blanc-Sablon",
+    "comment": "AST - QC (Lower North Shore)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 43,
+        "minute": 39
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 79,
+        "minute": 23
+      }
+    },
+    "id": "America/Toronto",
+    "comment": "Eastern - ON, QC (most areas)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 49,
+        "minute": 1
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 88,
+        "minute": 16
+      }
+    },
+    "id": "America/Nipigon",
+    "comment": "Eastern - ON, QC (no DST 1967-73)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 48,
+        "minute": 23
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 89,
+        "minute": 15
+      }
+    },
+    "id": "America/Thunder_Bay",
+    "comment": "Eastern - ON (Thunder Bay)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 63,
+        "minute": 44
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 68,
+        "minute": 28
+      }
+    },
+    "id": "America/Iqaluit",
+    "comment": "Eastern - NU (most east areas)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 66,
+        "minute": 8
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 65,
+        "minute": 44
+      }
+    },
+    "id": "America/Pangnirtung",
+    "comment": "Eastern - NU (Pangnirtung)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 48,
+        "minute": 45,
+        "second": 31
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 91,
+        "minute": 37,
+        "second": 18
+      }
+    },
+    "id": "America/Atikokan",
+    "comment": "EST - ON (Atikokan); NU (Coral H)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 49,
+        "minute": 53
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 97,
+        "minute": 9
+      }
+    },
+    "id": "America/Winnipeg",
+    "comment": "Central - ON (west); Manitoba"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 48,
+        "minute": 43
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 94,
+        "minute": 34
+      }
+    },
+    "id": "America/Rainy_River",
+    "comment": "Central - ON (Rainy R, Ft Frances)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 74,
+        "minute": 41,
+        "second": 44
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 94,
+        "minute": 49,
+        "second": 45
+      }
+    },
+    "id": "America/Resolute",
+    "comment": "Central - NU (Resolute)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 62,
+        "minute": 49,
+        "second": 0
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 92,
+        "minute": 4,
+        "second": 59
+      }
+    },
+    "id": "America/Rankin_Inlet",
+    "comment": "Central - NU (central)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 50,
+        "minute": 24
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 104,
+        "minute": 39
+      }
+    },
+    "id": "America/Regina",
+    "comment": "CST - SK (most areas)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 50,
+        "minute": 17
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 107,
+        "minute": 50
+      }
+    },
+    "id": "America/Swift_Current",
+    "comment": "CST - SK (midwest)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 53,
+        "minute": 33
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 113,
+        "minute": 28
+      }
+    },
+    "id": "America/Edmonton",
+    "comment": "Mountain - AB; BC (E); SK (W)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 69,
+        "minute": 6,
+        "second": 50
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 105,
+        "minute": 3,
+        "second": 10
+      }
+    },
+    "id": "America/Cambridge_Bay",
+    "comment": "Mountain - NU (west)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 62,
+        "minute": 27
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 114,
+        "minute": 21
+      }
+    },
+    "id": "America/Yellowknife",
+    "comment": "Mountain - NT (central)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 68,
+        "minute": 20,
+        "second": 59
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 133,
+        "minute": 43,
+        "second": 0
+      }
+    },
+    "id": "America/Inuvik",
+    "comment": "Mountain - NT (west)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 49,
+        "minute": 6
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 116,
+        "minute": 31
+      }
+    },
+    "id": "America/Creston",
+    "comment": "MST - BC (Creston)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 59,
+        "minute": 46
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 120,
+        "minute": 14
+      }
+    },
+    "id": "America/Dawson_Creek",
+    "comment": "MST - BC (Dawson Cr, Ft St John)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 58,
+        "minute": 48
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 122,
+        "minute": 42
+      }
+    },
+    "id": "America/Fort_Nelson",
+    "comment": "MST - BC (Ft Nelson)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 49,
+        "minute": 16
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 123,
+        "minute": 7
+      }
+    },
+    "id": "America/Vancouver",
+    "comment": "Pacific - BC (most areas)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 60,
+        "minute": 43
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 135,
+        "minute": 3
+      }
+    },
+    "id": "America/Whitehorse",
+    "comment": "Pacific - Yukon (south)"
+  },
+  {
+    "countryCode": "CA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 64,
+        "minute": 4
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 139,
+        "minute": 25
+      }
+    },
+    "id": "America/Dawson",
+    "comment": "Pacific - Yukon (north)"
+  },
+  {
+    "countryCode": "CC",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 12,
+        "minute": 10
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 96,
+        "minute": 55
+      }
+    },
+    "id": "Indian/Cocos"
+  },
+  {
+    "countryCode": "CD",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 4,
+        "minute": 18
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 15,
+        "minute": 18
+      }
+    },
+    "id": "Africa/Kinshasa",
+    "comment": "Dem. Rep. of Congo (west)"
+  },
+  {
+    "countryCode": "CD",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 11,
+        "minute": 40
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 27,
+        "minute": 28
+      }
+    },
+    "id": "Africa/Lubumbashi",
+    "comment": "Dem. Rep. of Congo (east)"
+  },
+  {
+    "countryCode": "CF",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 4,
+        "minute": 22
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 18,
+        "minute": 35
+      }
+    },
+    "id": "Africa/Bangui"
+  },
+  {
+    "countryCode": "CG",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 4,
+        "minute": 16
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 15,
+        "minute": 17
+      }
+    },
+    "id": "Africa/Brazzaville"
+  },
+  {
+    "countryCode": "CH",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 47,
+        "minute": 23
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 8,
+        "minute": 32
+      }
+    },
+    "id": "Europe/Zurich"
+  },
+  {
+    "countryCode": "CI",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 5,
+        "minute": 19
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 4,
+        "minute": 2
+      }
+    },
+    "id": "Africa/Abidjan"
+  },
+  {
+    "countryCode": "CK",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 21,
+        "minute": 14
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 159,
+        "minute": 46
+      }
+    },
+    "id": "Pacific/Rarotonga"
+  },
+  {
+    "countryCode": "CL",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 33,
+        "minute": 27
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 70,
+        "minute": 40
+      }
+    },
+    "id": "America/Santiago",
+    "comment": "Chile (most areas)"
+  },
+  {
+    "countryCode": "CL",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 53,
+        "minute": 9
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 70,
+        "minute": 55
+      }
+    },
+    "id": "America/Punta_Arenas",
+    "comment": "Region of Magallanes"
+  },
+  {
+    "countryCode": "CL",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 27,
+        "minute": 9
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 109,
+        "minute": 26
+      }
+    },
+    "id": "Pacific/Easter",
+    "comment": "Easter Island"
+  },
+  {
+    "countryCode": "CM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 4,
+        "minute": 3
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 9,
+        "minute": 42
+      }
+    },
+    "id": "Africa/Douala"
+  },
+  {
+    "countryCode": "CN",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 31,
+        "minute": 14
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 121,
+        "minute": 28
+      }
+    },
+    "id": "Asia/Shanghai",
+    "comment": "Beijing Time"
+  },
+  {
+    "countryCode": "CN",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 43,
+        "minute": 48
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 87,
+        "minute": 35
+      }
+    },
+    "id": "Asia/Urumqi",
+    "comment": "Xinjiang Time"
+  },
+  {
+    "countryCode": "CO",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 4,
+        "minute": 36
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 74,
+        "minute": 5
+      }
+    },
+    "id": "America/Bogota"
+  },
+  {
+    "countryCode": "CR",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 9,
+        "minute": 56
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 84,
+        "minute": 5
+      }
+    },
+    "id": "America/Costa_Rica"
+  },
+  {
+    "countryCode": "CU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 23,
+        "minute": 8
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 82,
+        "minute": 22
+      }
+    },
+    "id": "America/Havana"
+  },
+  {
+    "countryCode": "CV",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 14,
+        "minute": 55
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 23,
+        "minute": 31
+      }
+    },
+    "id": "Atlantic/Cape_Verde"
+  },
+  {
+    "countryCode": "CW",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 12,
+        "minute": 11
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 69,
+        "minute": 0
+      }
+    },
+    "id": "America/Curacao"
+  },
+  {
+    "countryCode": "CX",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 10,
+        "minute": 25
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 105,
+        "minute": 43
+      }
+    },
+    "id": "Indian/Christmas"
+  },
+  {
+    "countryCode": "CY",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 35,
+        "minute": 10
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 33,
+        "minute": 22
+      }
+    },
+    "id": "Asia/Nicosia",
+    "comment": "Cyprus (most areas)"
+  },
+  {
+    "countryCode": "CY",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 35,
+        "minute": 7
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 33,
+        "minute": 57
+      }
+    },
+    "id": "Asia/Famagusta",
+    "comment": "Northern Cyprus"
+  },
+  {
+    "countryCode": "CZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 50,
+        "minute": 5
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 14,
+        "minute": 26
+      }
+    },
+    "id": "Europe/Prague"
+  },
+  {
+    "countryCode": "DE",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 52,
+        "minute": 30
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 13,
+        "minute": 22
+      }
+    },
+    "id": "Europe/Berlin",
+    "comment": "Germany (most areas)"
+  },
+  {
+    "countryCode": "DE",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 47,
+        "minute": 42
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 8,
+        "minute": 41
+      }
+    },
+    "id": "Europe/Busingen",
+    "comment": "Busingen"
+  },
+  {
+    "countryCode": "DJ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 11,
+        "minute": 36
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 43,
+        "minute": 9
+      }
+    },
+    "id": "Africa/Djibouti"
+  },
+  {
+    "countryCode": "DK",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 55,
+        "minute": 40
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 12,
+        "minute": 35
+      }
+    },
+    "id": "Europe/Copenhagen"
+  },
+  {
+    "countryCode": "DM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 15,
+        "minute": 18
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 61,
+        "minute": 24
+      }
+    },
+    "id": "America/Dominica"
+  },
+  {
+    "countryCode": "DO",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 18,
+        "minute": 28
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 69,
+        "minute": 54
+      }
+    },
+    "id": "America/Santo_Domingo"
+  },
+  {
+    "countryCode": "DZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 36,
+        "minute": 47
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 3,
+        "minute": 3
+      }
+    },
+    "id": "Africa/Algiers"
+  },
+  {
+    "countryCode": "EC",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 2,
+        "minute": 10
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 79,
+        "minute": 50
+      }
+    },
+    "id": "America/Guayaquil",
+    "comment": "Ecuador (mainland)"
+  },
+  {
+    "countryCode": "EC",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 0,
+        "minute": 54
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 89,
+        "minute": 36
+      }
+    },
+    "id": "Pacific/Galapagos",
+    "comment": "Galapagos Islands"
+  },
+  {
+    "countryCode": "EE",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 59,
+        "minute": 25
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 24,
+        "minute": 45
+      }
+    },
+    "id": "Europe/Tallinn"
+  },
+  {
+    "countryCode": "EG",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 30,
+        "minute": 3
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 31,
+        "minute": 15
+      }
+    },
+    "id": "Africa/Cairo"
+  },
+  {
+    "countryCode": "EH",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 27,
+        "minute": 9
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 13,
+        "minute": 12
+      }
+    },
+    "id": "Africa/El_Aaiun"
+  },
+  {
+    "countryCode": "ER",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 15,
+        "minute": 20
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 38,
+        "minute": 53
+      }
+    },
+    "id": "Africa/Asmara"
+  },
+  {
+    "countryCode": "ES",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 40,
+        "minute": 24
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 3,
+        "minute": 41
+      }
+    },
+    "id": "Europe/Madrid",
+    "comment": "Spain (mainland)"
+  },
+  {
+    "countryCode": "ES",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 35,
+        "minute": 53
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 5,
+        "minute": 19
+      }
+    },
+    "id": "Africa/Ceuta",
+    "comment": "Ceuta, Melilla"
+  },
+  {
+    "countryCode": "ES",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 28,
+        "minute": 6
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 15,
+        "minute": 24
+      }
+    },
+    "id": "Atlantic/Canary",
+    "comment": "Canary Islands"
+  },
+  {
+    "countryCode": "ET",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 9,
+        "minute": 2
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 38,
+        "minute": 42
+      }
+    },
+    "id": "Africa/Addis_Ababa"
+  },
+  {
+    "countryCode": "FI",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 60,
+        "minute": 10
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 24,
+        "minute": 58
+      }
+    },
+    "id": "Europe/Helsinki"
+  },
+  {
+    "countryCode": "FJ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 18,
+        "minute": 8
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 178,
+        "minute": 25
+      }
+    },
+    "id": "Pacific/Fiji"
+  },
+  {
+    "countryCode": "FK",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 51,
+        "minute": 42
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 57,
+        "minute": 51
+      }
+    },
+    "id": "Atlantic/Stanley"
+  },
+  {
+    "countryCode": "FM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 7,
+        "minute": 25
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 151,
+        "minute": 47
+      }
+    },
+    "id": "Pacific/Chuuk",
+    "comment": "Chuuk/Truk, Yap"
+  },
+  {
+    "countryCode": "FM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 6,
+        "minute": 58
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 158,
+        "minute": 13
+      }
+    },
+    "id": "Pacific/Pohnpei",
+    "comment": "Pohnpei/Ponape"
+  },
+  {
+    "countryCode": "FM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 5,
+        "minute": 19
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 162,
+        "minute": 59
+      }
+    },
+    "id": "Pacific/Kosrae",
+    "comment": "Kosrae"
+  },
+  {
+    "countryCode": "FO",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 62,
+        "minute": 1
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 6,
+        "minute": 46
+      }
+    },
+    "id": "Atlantic/Faroe"
+  },
+  {
+    "countryCode": "FR",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 48,
+        "minute": 52
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 2,
+        "minute": 20
+      }
+    },
+    "id": "Europe/Paris"
+  },
+  {
+    "countryCode": "GA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 0,
+        "minute": 23
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 9,
+        "minute": 27
+      }
+    },
+    "id": "Africa/Libreville"
+  },
+  {
+    "countryCode": "GB",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 51,
+        "minute": 30,
+        "second": 30
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 0,
+        "minute": 7,
+        "second": 31
+      }
+    },
+    "id": "Europe/London"
+  },
+  {
+    "countryCode": "GD",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 12,
+        "minute": 3
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 61,
+        "minute": 45
+      }
+    },
+    "id": "America/Grenada"
+  },
+  {
+    "countryCode": "GE",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 41,
+        "minute": 43
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 44,
+        "minute": 49
+      }
+    },
+    "id": "Asia/Tbilisi"
+  },
+  {
+    "countryCode": "GF",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 4,
+        "minute": 56
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 52,
+        "minute": 20
+      }
+    },
+    "id": "America/Cayenne"
+  },
+  {
+    "countryCode": "GG",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 49,
+        "minute": 27
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 2,
+        "minute": 32
+      }
+    },
+    "id": "Europe/Guernsey"
+  },
+  {
+    "countryCode": "GH",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 5,
+        "minute": 33
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 0,
+        "minute": 13
+      }
+    },
+    "id": "Africa/Accra"
+  },
+  {
+    "countryCode": "GI",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 36,
+        "minute": 8
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 5,
+        "minute": 21
+      }
+    },
+    "id": "Europe/Gibraltar"
+  },
+  {
+    "countryCode": "GL",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 64,
+        "minute": 11
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 51,
+        "minute": 44
+      }
+    },
+    "id": "America/Godthab",
+    "comment": "Greenland (most areas)"
+  },
+  {
+    "countryCode": "GL",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 76,
+        "minute": 46
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 18,
+        "minute": 40
+      }
+    },
+    "id": "America/Danmarkshavn",
+    "comment": "National Park (east coast)"
+  },
+  {
+    "countryCode": "GL",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 70,
+        "minute": 29
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 21,
+        "minute": 58
+      }
+    },
+    "id": "America/Scoresbysund",
+    "comment": "Scoresbysund/Ittoqqortoormiit"
+  },
+  {
+    "countryCode": "GL",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 76,
+        "minute": 34
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 68,
+        "minute": 47
+      }
+    },
+    "id": "America/Thule",
+    "comment": "Thule/Pituffik"
+  },
+  {
+    "countryCode": "GM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 13,
+        "minute": 28
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 16,
+        "minute": 39
+      }
+    },
+    "id": "Africa/Banjul"
+  },
+  {
+    "countryCode": "GN",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 9,
+        "minute": 31
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 13,
+        "minute": 43
+      }
+    },
+    "id": "Africa/Conakry"
+  },
+  {
+    "countryCode": "GP",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 16,
+        "minute": 14
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 61,
+        "minute": 32
+      }
+    },
+    "id": "America/Guadeloupe"
+  },
+  {
+    "countryCode": "GQ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 3,
+        "minute": 45
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 8,
+        "minute": 47
+      }
+    },
+    "id": "Africa/Malabo"
+  },
+  {
+    "countryCode": "GR",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 37,
+        "minute": 58
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 23,
+        "minute": 43
+      }
+    },
+    "id": "Europe/Athens"
+  },
+  {
+    "countryCode": "GS",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 54,
+        "minute": 16
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 36,
+        "minute": 32
+      }
+    },
+    "id": "Atlantic/South_Georgia"
+  },
+  {
+    "countryCode": "GT",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 14,
+        "minute": 38
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 90,
+        "minute": 31
+      }
+    },
+    "id": "America/Guatemala"
+  },
+  {
+    "countryCode": "GU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 13,
+        "minute": 28
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 144,
+        "minute": 45
+      }
+    },
+    "id": "Pacific/Guam"
+  },
+  {
+    "countryCode": "GW",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 11,
+        "minute": 51
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 15,
+        "minute": 35
+      }
+    },
+    "id": "Africa/Bissau"
+  },
+  {
+    "countryCode": "GY",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 6,
+        "minute": 48
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 58,
+        "minute": 10
+      }
+    },
+    "id": "America/Guyana"
+  },
+  {
+    "countryCode": "HK",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 22,
+        "minute": 17
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 114,
+        "minute": 9
+      }
+    },
+    "id": "Asia/Hong_Kong"
+  },
+  {
+    "countryCode": "HN",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 14,
+        "minute": 6
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 87,
+        "minute": 13
+      }
+    },
+    "id": "America/Tegucigalpa"
+  },
+  {
+    "countryCode": "HR",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 45,
+        "minute": 48
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 15,
+        "minute": 58
+      }
+    },
+    "id": "Europe/Zagreb"
+  },
+  {
+    "countryCode": "HT",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 18,
+        "minute": 32
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 72,
+        "minute": 20
+      }
+    },
+    "id": "America/Port-au-Prince"
+  },
+  {
+    "countryCode": "HU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 47,
+        "minute": 30
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 19,
+        "minute": 5
+      }
+    },
+    "id": "Europe/Budapest"
+  },
+  {
+    "countryCode": "ID",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 6,
+        "minute": 10
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 106,
+        "minute": 48
+      }
+    },
+    "id": "Asia/Jakarta",
+    "comment": "Java, Sumatra"
+  },
+  {
+    "countryCode": "ID",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 0,
+        "minute": 2
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 109,
+        "minute": 20
+      }
+    },
+    "id": "Asia/Pontianak",
+    "comment": "Borneo (west, central)"
+  },
+  {
+    "countryCode": "ID",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 5,
+        "minute": 7
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 119,
+        "minute": 24
+      }
+    },
+    "id": "Asia/Makassar",
+    "comment": "Borneo (east, south); Sulawesi/Celebes, Bali, Nusa Tengarra; Timor (west)"
+  },
+  {
+    "countryCode": "ID",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 2,
+        "minute": 32
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 140,
+        "minute": 42
+      }
+    },
+    "id": "Asia/Jayapura",
+    "comment": "New Guinea (West Papua / Irian Jaya); Malukus/Moluccas"
+  },
+  {
+    "countryCode": "IE",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 53,
+        "minute": 20
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 6,
+        "minute": 15
+      }
+    },
+    "id": "Europe/Dublin"
+  },
+  {
+    "countryCode": "IL",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 31,
+        "minute": 46,
+        "second": 50
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 35,
+        "minute": 13,
+        "second": 26
+      }
+    },
+    "id": "Asia/Jerusalem"
+  },
+  {
+    "countryCode": "IM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 54,
+        "minute": 9
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 4,
+        "minute": 28
+      }
+    },
+    "id": "Europe/Isle_of_Man"
+  },
+  {
+    "countryCode": "IN",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 22,
+        "minute": 32
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 88,
+        "minute": 22
+      }
+    },
+    "id": "Asia/Kolkata"
+  },
+  {
+    "countryCode": "IO",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 7,
+        "minute": 20
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 72,
+        "minute": 25
+      }
+    },
+    "id": "Indian/Chagos"
+  },
+  {
+    "countryCode": "IQ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 33,
+        "minute": 21
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 44,
+        "minute": 25
+      }
+    },
+    "id": "Asia/Baghdad"
+  },
+  {
+    "countryCode": "IR",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 35,
+        "minute": 40
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 51,
+        "minute": 26
+      }
+    },
+    "id": "Asia/Tehran"
+  },
+  {
+    "countryCode": "IS",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 64,
+        "minute": 9
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 21,
+        "minute": 51
+      }
+    },
+    "id": "Atlantic/Reykjavik"
+  },
+  {
+    "countryCode": "IT",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 41,
+        "minute": 54
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 12,
+        "minute": 29
+      }
+    },
+    "id": "Europe/Rome"
+  },
+  {
+    "countryCode": "JE",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 49,
+        "minute": 12
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 2,
+        "minute": 7
+      }
+    },
+    "id": "Europe/Jersey"
+  },
+  {
+    "countryCode": "JM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 17,
+        "minute": 58,
+        "second": 5
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 76,
+        "minute": 47,
+        "second": 36
+      }
+    },
+    "id": "America/Jamaica"
+  },
+  {
+    "countryCode": "JO",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 31,
+        "minute": 57
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 35,
+        "minute": 56
+      }
+    },
+    "id": "Asia/Amman"
+  },
+  {
+    "countryCode": "JP",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 35,
+        "minute": 39,
+        "second": 16
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 139,
+        "minute": 44,
+        "second": 41
+      }
+    },
+    "id": "Asia/Tokyo"
+  },
+  {
+    "countryCode": "KE",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 1,
+        "minute": 17
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 36,
+        "minute": 49
+      }
+    },
+    "id": "Africa/Nairobi"
+  },
+  {
+    "countryCode": "KG",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 42,
+        "minute": 54
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 74,
+        "minute": 36
+      }
+    },
+    "id": "Asia/Bishkek"
+  },
+  {
+    "countryCode": "KH",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 11,
+        "minute": 33
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 104,
+        "minute": 55
+      }
+    },
+    "id": "Asia/Phnom_Penh"
+  },
+  {
+    "countryCode": "KI",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 1,
+        "minute": 25
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 173,
+        "minute": 0
+      }
+    },
+    "id": "Pacific/Tarawa",
+    "comment": "Gilbert Islands"
+  },
+  {
+    "countryCode": "KI",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 3,
+        "minute": 8
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 171,
+        "minute": 5
+      }
+    },
+    "id": "Pacific/Enderbury",
+    "comment": "Phoenix Islands"
+  },
+  {
+    "countryCode": "KI",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 1,
+        "minute": 52
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 157,
+        "minute": 20
+      }
+    },
+    "id": "Pacific/Kiritimati",
+    "comment": "Line Islands"
+  },
+  {
+    "countryCode": "KM",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 11,
+        "minute": 41
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 43,
+        "minute": 16
+      }
+    },
+    "id": "Indian/Comoro"
+  },
+  {
+    "countryCode": "KN",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 17,
+        "minute": 18
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 62,
+        "minute": 43
+      }
+    },
+    "id": "America/St_Kitts"
+  },
+  {
+    "countryCode": "KP",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 39,
+        "minute": 1
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 125,
+        "minute": 45
+      }
+    },
+    "id": "Asia/Pyongyang"
+  },
+  {
+    "countryCode": "KR",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 37,
+        "minute": 33
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 126,
+        "minute": 58
+      }
+    },
+    "id": "Asia/Seoul"
+  },
+  {
+    "countryCode": "KW",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 29,
+        "minute": 20
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 47,
+        "minute": 59
+      }
+    },
+    "id": "Asia/Kuwait"
+  },
+  {
+    "countryCode": "KY",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 19,
+        "minute": 18
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 81,
+        "minute": 23
+      }
+    },
+    "id": "America/Cayman"
+  },
+  {
+    "countryCode": "KZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 43,
+        "minute": 15
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 76,
+        "minute": 57
+      }
+    },
+    "id": "Asia/Almaty",
+    "comment": "Kazakhstan (most areas)"
+  },
+  {
+    "countryCode": "KZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 44,
+        "minute": 48
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 65,
+        "minute": 28
+      }
+    },
+    "id": "Asia/Qyzylorda",
+    "comment": "Qyzylorda/Kyzylorda/Kzyl-Orda"
+  },
+  {
+    "countryCode": "KZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 50,
+        "minute": 17
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 57,
+        "minute": 10
+      }
+    },
+    "id": "Asia/Aqtobe",
+    "comment": "Aqtobe/Aktobe"
+  },
+  {
+    "countryCode": "KZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 44,
+        "minute": 31
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 50,
+        "minute": 16
+      }
+    },
+    "id": "Asia/Aqtau",
+    "comment": "Mangghystau/Mankistau"
+  },
+  {
+    "countryCode": "KZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 47,
+        "minute": 7
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 51,
+        "minute": 56
+      }
+    },
+    "id": "Asia/Atyrau",
+    "comment": "Atyrau/Atirau/Gur'yev"
+  },
+  {
+    "countryCode": "KZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 51,
+        "minute": 13
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 51,
+        "minute": 21
+      }
+    },
+    "id": "Asia/Oral",
+    "comment": "West Kazakhstan"
+  },
+  {
+    "countryCode": "LA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 17,
+        "minute": 58
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 102,
+        "minute": 36
+      }
+    },
+    "id": "Asia/Vientiane"
+  },
+  {
+    "countryCode": "LB",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 33,
+        "minute": 53
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 35,
+        "minute": 30
+      }
+    },
+    "id": "Asia/Beirut"
+  },
+  {
+    "countryCode": "LC",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 14,
+        "minute": 1
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 61,
+        "minute": 0
+      }
+    },
+    "id": "America/St_Lucia"
+  },
+  {
+    "countryCode": "LI",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 47,
+        "minute": 9
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 9,
+        "minute": 31
+      }
+    },
+    "id": "Europe/Vaduz"
+  },
+  {
+    "countryCode": "LK",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 6,
+        "minute": 56
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 79,
+        "minute": 51
+      }
+    },
+    "id": "Asia/Colombo"
+  },
+  {
+    "countryCode": "LR",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 6,
+        "minute": 18
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 10,
+        "minute": 47
+      }
+    },
+    "id": "Africa/Monrovia"
+  },
+  {
+    "countryCode": "LS",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 29,
+        "minute": 28
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 27,
+        "minute": 30
+      }
+    },
+    "id": "Africa/Maseru"
+  },
+  {
+    "countryCode": "LT",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 54,
+        "minute": 41
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 25,
+        "minute": 19
+      }
+    },
+    "id": "Europe/Vilnius"
+  },
+  {
+    "countryCode": "LU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 49,
+        "minute": 36
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 6,
+        "minute": 9
+      }
+    },
+    "id": "Europe/Luxembourg"
+  },
+  {
+    "countryCode": "LV",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 56,
+        "minute": 57
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 24,
+        "minute": 6
+      }
+    },
+    "id": "Europe/Riga"
+  },
+  {
+    "countryCode": "LY",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 32,
+        "minute": 54
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 13,
+        "minute": 11
+      }
+    },
+    "id": "Africa/Tripoli"
+  },
+  {
+    "countryCode": "MA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 33,
+        "minute": 39
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 7,
+        "minute": 35
+      }
+    },
+    "id": "Africa/Casablanca"
+  },
+  {
+    "countryCode": "MC",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 43,
+        "minute": 42
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 7,
+        "minute": 23
+      }
+    },
+    "id": "Europe/Monaco"
+  },
+  {
+    "countryCode": "MD",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 47,
+        "minute": 0
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 28,
+        "minute": 50
+      }
+    },
+    "id": "Europe/Chisinau"
+  },
+  {
+    "countryCode": "ME",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 42,
+        "minute": 26
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 19,
+        "minute": 16
+      }
+    },
+    "id": "Europe/Podgorica"
+  },
+  {
+    "countryCode": "MF",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 18,
+        "minute": 4
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 63,
+        "minute": 5
+      }
+    },
+    "id": "America/Marigot"
+  },
+  {
+    "countryCode": "MG",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 18,
+        "minute": 55
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 47,
+        "minute": 31
+      }
+    },
+    "id": "Indian/Antananarivo"
+  },
+  {
+    "countryCode": "MH",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 7,
+        "minute": 9
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 171,
+        "minute": 12
+      }
+    },
+    "id": "Pacific/Majuro",
+    "comment": "Marshall Islands (most areas)"
+  },
+  {
+    "countryCode": "MH",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 9,
+        "minute": 5
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 167,
+        "minute": 20
+      }
+    },
+    "id": "Pacific/Kwajalein",
+    "comment": "Kwajalein"
+  },
+  {
+    "countryCode": "MK",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 41,
+        "minute": 59
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 21,
+        "minute": 26
+      }
+    },
+    "id": "Europe/Skopje"
+  },
+  {
+    "countryCode": "ML",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 12,
+        "minute": 39
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 8,
+        "minute": 0
+      }
+    },
+    "id": "Africa/Bamako"
+  },
+  {
+    "countryCode": "MM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 16,
+        "minute": 47
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 96,
+        "minute": 10
+      }
+    },
+    "id": "Asia/Yangon"
+  },
+  {
+    "countryCode": "MN",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 47,
+        "minute": 55
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 106,
+        "minute": 53
+      }
+    },
+    "id": "Asia/Ulaanbaatar",
+    "comment": "Mongolia (most areas)"
+  },
+  {
+    "countryCode": "MN",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 48,
+        "minute": 1
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 91,
+        "minute": 39
+      }
+    },
+    "id": "Asia/Hovd",
+    "comment": "Bayan-Olgiy, Govi-Altai, Hovd, Uvs, Zavkhan"
+  },
+  {
+    "countryCode": "MN",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 48,
+        "minute": 4
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 114,
+        "minute": 30
+      }
+    },
+    "id": "Asia/Choibalsan",
+    "comment": "Dornod, Sukhbaatar"
+  },
+  {
+    "countryCode": "MO",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 22,
+        "minute": 14
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 113,
+        "minute": 35
+      }
+    },
+    "id": "Asia/Macau"
+  },
+  {
+    "countryCode": "MP",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 15,
+        "minute": 12
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 145,
+        "minute": 45
+      }
+    },
+    "id": "Pacific/Saipan"
+  },
+  {
+    "countryCode": "MQ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 14,
+        "minute": 36
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 61,
+        "minute": 5
+      }
+    },
+    "id": "America/Martinique"
+  },
+  {
+    "countryCode": "MR",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 18,
+        "minute": 6
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 15,
+        "minute": 57
+      }
+    },
+    "id": "Africa/Nouakchott"
+  },
+  {
+    "countryCode": "MS",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 16,
+        "minute": 43
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 62,
+        "minute": 13
+      }
+    },
+    "id": "America/Montserrat"
+  },
+  {
+    "countryCode": "MT",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 35,
+        "minute": 54
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 14,
+        "minute": 31
+      }
+    },
+    "id": "Europe/Malta"
+  },
+  {
+    "countryCode": "MU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 20,
+        "minute": 10
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 57,
+        "minute": 30
+      }
+    },
+    "id": "Indian/Mauritius"
+  },
+  {
+    "countryCode": "MV",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 4,
+        "minute": 10
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 73,
+        "minute": 30
+      }
+    },
+    "id": "Indian/Maldives"
+  },
+  {
+    "countryCode": "MW",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 15,
+        "minute": 47
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 35,
+        "minute": 0
+      }
+    },
+    "id": "Africa/Blantyre"
+  },
+  {
+    "countryCode": "MX",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 19,
+        "minute": 24
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 99,
+        "minute": 9
+      }
+    },
+    "id": "America/Mexico_City",
+    "comment": "Central Time"
+  },
+  {
+    "countryCode": "MX",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 21,
+        "minute": 5
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 86,
+        "minute": 46
+      }
+    },
+    "id": "America/Cancun",
+    "comment": "Eastern Standard Time - Quintana Roo"
+  },
+  {
+    "countryCode": "MX",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 20,
+        "minute": 58
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 89,
+        "minute": 37
+      }
+    },
+    "id": "America/Merida",
+    "comment": "Central Time - Campeche, Yucatan"
+  },
+  {
+    "countryCode": "MX",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 25,
+        "minute": 40
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 100,
+        "minute": 19
+      }
+    },
+    "id": "America/Monterrey",
+    "comment": "Central Time - Durango; Coahuila, Nuevo Leon, Tamaulipas (most areas)"
+  },
+  {
+    "countryCode": "MX",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 25,
+        "minute": 50
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 97,
+        "minute": 30
+      }
+    },
+    "id": "America/Matamoros",
+    "comment": "Central Time US - Coahuila, Nuevo Leon, Tamaulipas (US border)"
+  },
+  {
+    "countryCode": "MX",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 23,
+        "minute": 13
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 106,
+        "minute": 25
+      }
+    },
+    "id": "America/Mazatlan",
+    "comment": "Mountain Time - Baja California Sur, Nayarit, Sinaloa"
+  },
+  {
+    "countryCode": "MX",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 28,
+        "minute": 38
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 106,
+        "minute": 5
+      }
+    },
+    "id": "America/Chihuahua",
+    "comment": "Mountain Time - Chihuahua (most areas)"
+  },
+  {
+    "countryCode": "MX",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 29,
+        "minute": 34
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 104,
+        "minute": 25
+      }
+    },
+    "id": "America/Ojinaga",
+    "comment": "Mountain Time US - Chihuahua (US border)"
+  },
+  {
+    "countryCode": "MX",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 29,
+        "minute": 4
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 110,
+        "minute": 58
+      }
+    },
+    "id": "America/Hermosillo",
+    "comment": "Mountain Standard Time - Sonora"
+  },
+  {
+    "countryCode": "MX",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 32,
+        "minute": 32
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 117,
+        "minute": 1
+      }
+    },
+    "id": "America/Tijuana",
+    "comment": "Pacific Time US - Baja California"
+  },
+  {
+    "countryCode": "MX",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 20,
+        "minute": 48
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 105,
+        "minute": 15
+      }
+    },
+    "id": "America/Bahia_Banderas",
+    "comment": "Central Time - Bahia de Banderas"
+  },
+  {
+    "countryCode": "MY",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 3,
+        "minute": 10
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 101,
+        "minute": 42
+      }
+    },
+    "id": "Asia/Kuala_Lumpur",
+    "comment": "Malaysia (peninsula)"
+  },
+  {
+    "countryCode": "MY",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 1,
+        "minute": 33
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 110,
+        "minute": 20
+      }
+    },
+    "id": "Asia/Kuching",
+    "comment": "Sabah, Sarawak"
+  },
+  {
+    "countryCode": "MZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 25,
+        "minute": 58
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 32,
+        "minute": 35
+      }
+    },
+    "id": "Africa/Maputo"
+  },
+  {
+    "countryCode": "NA",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 22,
+        "minute": 34
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 17,
+        "minute": 6
+      }
+    },
+    "id": "Africa/Windhoek"
+  },
+  {
+    "countryCode": "NC",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 22,
+        "minute": 16
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 166,
+        "minute": 27
+      }
+    },
+    "id": "Pacific/Noumea"
+  },
+  {
+    "countryCode": "NE",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 13,
+        "minute": 31
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 2,
+        "minute": 7
+      }
+    },
+    "id": "Africa/Niamey"
+  },
+  {
+    "countryCode": "NF",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 29,
+        "minute": 3
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 167,
+        "minute": 58
+      }
+    },
+    "id": "Pacific/Norfolk"
+  },
+  {
+    "countryCode": "NG",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 6,
+        "minute": 27
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 3,
+        "minute": 24
+      }
+    },
+    "id": "Africa/Lagos"
+  },
+  {
+    "countryCode": "NI",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 12,
+        "minute": 9
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 86,
+        "minute": 17
+      }
+    },
+    "id": "America/Managua"
+  },
+  {
+    "countryCode": "NL",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 52,
+        "minute": 22
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 4,
+        "minute": 54
+      }
+    },
+    "id": "Europe/Amsterdam"
+  },
+  {
+    "countryCode": "NO",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 59,
+        "minute": 55
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 10,
+        "minute": 45
+      }
+    },
+    "id": "Europe/Oslo"
+  },
+  {
+    "countryCode": "NP",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 27,
+        "minute": 43
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 85,
+        "minute": 19
+      }
+    },
+    "id": "Asia/Kathmandu"
+  },
+  {
+    "countryCode": "NR",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 0,
+        "minute": 31
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 166,
+        "minute": 55
+      }
+    },
+    "id": "Pacific/Nauru"
+  },
+  {
+    "countryCode": "NU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 19,
+        "minute": 1
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 169,
+        "minute": 55
+      }
+    },
+    "id": "Pacific/Niue"
+  },
+  {
+    "countryCode": "NZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 36,
+        "minute": 52
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 174,
+        "minute": 46
+      }
+    },
+    "id": "Pacific/Auckland",
+    "comment": "New Zealand (most areas)"
+  },
+  {
+    "countryCode": "NZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 43,
+        "minute": 57
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 176,
+        "minute": 33
+      }
+    },
+    "id": "Pacific/Chatham",
+    "comment": "Chatham Islands"
+  },
+  {
+    "countryCode": "OM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 23,
+        "minute": 36
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 58,
+        "minute": 35
+      }
+    },
+    "id": "Asia/Muscat"
+  },
+  {
+    "countryCode": "PA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 8,
+        "minute": 58
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 79,
+        "minute": 32
+      }
+    },
+    "id": "America/Panama"
+  },
+  {
+    "countryCode": "PE",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 12,
+        "minute": 3
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 77,
+        "minute": 3
+      }
+    },
+    "id": "America/Lima"
+  },
+  {
+    "countryCode": "PF",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 17,
+        "minute": 32
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 149,
+        "minute": 34
+      }
+    },
+    "id": "Pacific/Tahiti",
+    "comment": "Society Islands"
+  },
+  {
+    "countryCode": "PF",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 9,
+        "minute": 0
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 139,
+        "minute": 30
+      }
+    },
+    "id": "Pacific/Marquesas",
+    "comment": "Marquesas Islands"
+  },
+  {
+    "countryCode": "PF",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 23,
+        "minute": 8
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 134,
+        "minute": 57
+      }
+    },
+    "id": "Pacific/Gambier",
+    "comment": "Gambier Islands"
+  },
+  {
+    "countryCode": "PG",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 9,
+        "minute": 30
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 147,
+        "minute": 10
+      }
+    },
+    "id": "Pacific/Port_Moresby",
+    "comment": "Papua New Guinea (most areas)"
+  },
+  {
+    "countryCode": "PG",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 6,
+        "minute": 13
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 155,
+        "minute": 34
+      }
+    },
+    "id": "Pacific/Bougainville",
+    "comment": "Bougainville"
+  },
+  {
+    "countryCode": "PH",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 14,
+        "minute": 35
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 121,
+        "minute": 0
+      }
+    },
+    "id": "Asia/Manila"
+  },
+  {
+    "countryCode": "PK",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 24,
+        "minute": 52
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 67,
+        "minute": 3
+      }
+    },
+    "id": "Asia/Karachi"
+  },
+  {
+    "countryCode": "PL",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 52,
+        "minute": 15
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 21,
+        "minute": 0
+      }
+    },
+    "id": "Europe/Warsaw"
+  },
+  {
+    "countryCode": "PM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 47,
+        "minute": 3
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 56,
+        "minute": 20
+      }
+    },
+    "id": "America/Miquelon"
+  },
+  {
+    "countryCode": "PN",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 25,
+        "minute": 4
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 130,
+        "minute": 5
+      }
+    },
+    "id": "Pacific/Pitcairn"
+  },
+  {
+    "countryCode": "PR",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 18,
+        "minute": 28,
+        "second": 6
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 66,
+        "minute": 6,
+        "second": 22
+      }
+    },
+    "id": "America/Puerto_Rico"
+  },
+  {
+    "countryCode": "PS",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 31,
+        "minute": 30
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 34,
+        "minute": 28
+      }
+    },
+    "id": "Asia/Gaza",
+    "comment": "Gaza Strip"
+  },
+  {
+    "countryCode": "PS",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 31,
+        "minute": 32,
+        "second": 0
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 35,
+        "minute": 5,
+        "second": 42
+      }
+    },
+    "id": "Asia/Hebron",
+    "comment": "West Bank"
+  },
+  {
+    "countryCode": "PT",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 38,
+        "minute": 43
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 9,
+        "minute": 8
+      }
+    },
+    "id": "Europe/Lisbon",
+    "comment": "Portugal (mainland)"
+  },
+  {
+    "countryCode": "PT",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 32,
+        "minute": 38
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 16,
+        "minute": 54
+      }
+    },
+    "id": "Atlantic/Madeira",
+    "comment": "Madeira Islands"
+  },
+  {
+    "countryCode": "PT",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 37,
+        "minute": 44
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 25,
+        "minute": 40
+      }
+    },
+    "id": "Atlantic/Azores",
+    "comment": "Azores"
+  },
+  {
+    "countryCode": "PW",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 7,
+        "minute": 20
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 134,
+        "minute": 29
+      }
+    },
+    "id": "Pacific/Palau"
+  },
+  {
+    "countryCode": "PY",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 25,
+        "minute": 16
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 57,
+        "minute": 40
+      }
+    },
+    "id": "America/Asuncion"
+  },
+  {
+    "countryCode": "QA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 25,
+        "minute": 17
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 51,
+        "minute": 32
+      }
+    },
+    "id": "Asia/Qatar"
+  },
+  {
+    "countryCode": "RE",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 20,
+        "minute": 52
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 55,
+        "minute": 28
+      }
+    },
+    "id": "Indian/Reunion"
+  },
+  {
+    "countryCode": "RO",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 44,
+        "minute": 26
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 26,
+        "minute": 6
+      }
+    },
+    "id": "Europe/Bucharest"
+  },
+  {
+    "countryCode": "RS",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 44,
+        "minute": 50
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 20,
+        "minute": 30
+      }
+    },
+    "id": "Europe/Belgrade"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 54,
+        "minute": 43
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 20,
+        "minute": 30
+      }
+    },
+    "id": "Europe/Kaliningrad",
+    "comment": "MSK-01 - Kaliningrad"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 55,
+        "minute": 45,
+        "second": 21
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 37,
+        "minute": 37,
+        "second": 4
+      }
+    },
+    "id": "Europe/Moscow",
+    "comment": "MSK+00 - Moscow area"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 44,
+        "minute": 57
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 34,
+        "minute": 6
+      }
+    },
+    "id": "Europe/Simferopol",
+    "comment": "MSK+00 - Crimea"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 48,
+        "minute": 44
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 44,
+        "minute": 25
+      }
+    },
+    "id": "Europe/Volgograd",
+    "comment": "MSK+00 - Volgograd"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 58,
+        "minute": 36
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 49,
+        "minute": 39
+      }
+    },
+    "id": "Europe/Kirov",
+    "comment": "MSK+00 - Kirov"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 46,
+        "minute": 21
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 48,
+        "minute": 3
+      }
+    },
+    "id": "Europe/Astrakhan",
+    "comment": "MSK+01 - Astrakhan"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 51,
+        "minute": 34
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 46,
+        "minute": 2
+      }
+    },
+    "id": "Europe/Saratov",
+    "comment": "MSK+01 - Saratov"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 54,
+        "minute": 20
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 48,
+        "minute": 24
+      }
+    },
+    "id": "Europe/Ulyanovsk",
+    "comment": "MSK+01 - Ulyanovsk"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 53,
+        "minute": 12
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 50,
+        "minute": 9
+      }
+    },
+    "id": "Europe/Samara",
+    "comment": "MSK+01 - Samara, Udmurtia"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 56,
+        "minute": 51
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 60,
+        "minute": 36
+      }
+    },
+    "id": "Asia/Yekaterinburg",
+    "comment": "MSK+02 - Urals"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 55,
+        "minute": 0
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 73,
+        "minute": 24
+      }
+    },
+    "id": "Asia/Omsk",
+    "comment": "MSK+03 - Omsk"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 55,
+        "minute": 2
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 82,
+        "minute": 55
+      }
+    },
+    "id": "Asia/Novosibirsk",
+    "comment": "MSK+04 - Novosibirsk"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 53,
+        "minute": 22
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 83,
+        "minute": 45
+      }
+    },
+    "id": "Asia/Barnaul",
+    "comment": "MSK+04 - Altai"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 56,
+        "minute": 30
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 84,
+        "minute": 58
+      }
+    },
+    "id": "Asia/Tomsk",
+    "comment": "MSK+04 - Tomsk"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 53,
+        "minute": 45
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 87,
+        "minute": 7
+      }
+    },
+    "id": "Asia/Novokuznetsk",
+    "comment": "MSK+04 - Kemerovo"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 56,
+        "minute": 1
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 92,
+        "minute": 50
+      }
+    },
+    "id": "Asia/Krasnoyarsk",
+    "comment": "MSK+04 - Krasnoyarsk area"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 52,
+        "minute": 16
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 104,
+        "minute": 20
+      }
+    },
+    "id": "Asia/Irkutsk",
+    "comment": "MSK+05 - Irkutsk, Buryatia"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 52,
+        "minute": 3
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 113,
+        "minute": 28
+      }
+    },
+    "id": "Asia/Chita",
+    "comment": "MSK+06 - Zabaykalsky"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 62,
+        "minute": 0
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 129,
+        "minute": 40
+      }
+    },
+    "id": "Asia/Yakutsk",
+    "comment": "MSK+06 - Lena River"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 62,
+        "minute": 39,
+        "second": 23
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 135,
+        "minute": 33,
+        "second": 14
+      }
+    },
+    "id": "Asia/Khandyga",
+    "comment": "MSK+06 - Tomponsky, Ust-Maysky"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 43,
+        "minute": 10
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 131,
+        "minute": 56
+      }
+    },
+    "id": "Asia/Vladivostok",
+    "comment": "MSK+07 - Amur River"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 64,
+        "minute": 33,
+        "second": 37
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 143,
+        "minute": 13,
+        "second": 36
+      }
+    },
+    "id": "Asia/Ust-Nera",
+    "comment": "MSK+07 - Oymyakonsky"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 59,
+        "minute": 34
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 150,
+        "minute": 48
+      }
+    },
+    "id": "Asia/Magadan",
+    "comment": "MSK+08 - Magadan"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 46,
+        "minute": 58
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 142,
+        "minute": 42
+      }
+    },
+    "id": "Asia/Sakhalin",
+    "comment": "MSK+08 - Sakhalin Island"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 67,
+        "minute": 28
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 153,
+        "minute": 43
+      }
+    },
+    "id": "Asia/Srednekolymsk",
+    "comment": "MSK+08 - Sakha (E); North Kuril Is"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 53,
+        "minute": 1
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 158,
+        "minute": 39
+      }
+    },
+    "id": "Asia/Kamchatka",
+    "comment": "MSK+09 - Kamchatka"
+  },
+  {
+    "countryCode": "RU",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 64,
+        "minute": 45
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 177,
+        "minute": 29
+      }
+    },
+    "id": "Asia/Anadyr",
+    "comment": "MSK+09 - Bering Sea"
+  },
+  {
+    "countryCode": "RW",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 1,
+        "minute": 57
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 30,
+        "minute": 4
+      }
+    },
+    "id": "Africa/Kigali"
+  },
+  {
+    "countryCode": "SA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 24,
+        "minute": 38
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 46,
+        "minute": 43
+      }
+    },
+    "id": "Asia/Riyadh"
+  },
+  {
+    "countryCode": "SB",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 9,
+        "minute": 32
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 160,
+        "minute": 12
+      }
+    },
+    "id": "Pacific/Guadalcanal"
+  },
+  {
+    "countryCode": "SC",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 4,
+        "minute": 40
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 55,
+        "minute": 28
+      }
+    },
+    "id": "Indian/Mahe"
+  },
+  {
+    "countryCode": "SD",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 15,
+        "minute": 36
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 32,
+        "minute": 32
+      }
+    },
+    "id": "Africa/Khartoum"
+  },
+  {
+    "countryCode": "SE",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 59,
+        "minute": 20
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 18,
+        "minute": 3
+      }
+    },
+    "id": "Europe/Stockholm"
+  },
+  {
+    "countryCode": "SG",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 1,
+        "minute": 17
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 103,
+        "minute": 51
+      }
+    },
+    "id": "Asia/Singapore"
+  },
+  {
+    "countryCode": "SH",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 15,
+        "minute": 55
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 5,
+        "minute": 42
+      }
+    },
+    "id": "Atlantic/St_Helena"
+  },
+  {
+    "countryCode": "SI",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 46,
+        "minute": 3
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 14,
+        "minute": 31
+      }
+    },
+    "id": "Europe/Ljubljana"
+  },
+  {
+    "countryCode": "SJ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 78,
+        "minute": 0
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 16,
+        "minute": 0
+      }
+    },
+    "id": "Arctic/Longyearbyen"
+  },
+  {
+    "countryCode": "SK",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 48,
+        "minute": 9
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 17,
+        "minute": 7
+      }
+    },
+    "id": "Europe/Bratislava"
+  },
+  {
+    "countryCode": "SL",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 8,
+        "minute": 30
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 13,
+        "minute": 15
+      }
+    },
+    "id": "Africa/Freetown"
+  },
+  {
+    "countryCode": "SM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 43,
+        "minute": 55
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 12,
+        "minute": 28
+      }
+    },
+    "id": "Europe/San_Marino"
+  },
+  {
+    "countryCode": "SN",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 14,
+        "minute": 40
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 17,
+        "minute": 26
+      }
+    },
+    "id": "Africa/Dakar"
+  },
+  {
+    "countryCode": "SO",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 2,
+        "minute": 4
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 45,
+        "minute": 22
+      }
+    },
+    "id": "Africa/Mogadishu"
+  },
+  {
+    "countryCode": "SR",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 5,
+        "minute": 50
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 55,
+        "minute": 10
+      }
+    },
+    "id": "America/Paramaribo"
+  },
+  {
+    "countryCode": "SS",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 4,
+        "minute": 51
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 31,
+        "minute": 36
+      }
+    },
+    "id": "Africa/Juba"
+  },
+  {
+    "countryCode": "ST",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 0,
+        "minute": 20
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 6,
+        "minute": 44
+      }
+    },
+    "id": "Africa/Sao_Tome"
+  },
+  {
+    "countryCode": "SV",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 13,
+        "minute": 42
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 89,
+        "minute": 12
+      }
+    },
+    "id": "America/El_Salvador"
+  },
+  {
+    "countryCode": "SX",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 18,
+        "minute": 3,
+        "second": 5
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 63,
+        "minute": 2,
+        "second": 50
+      }
+    },
+    "id": "America/Lower_Princes"
+  },
+  {
+    "countryCode": "SY",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 33,
+        "minute": 30
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 36,
+        "minute": 18
+      }
+    },
+    "id": "Asia/Damascus"
+  },
+  {
+    "countryCode": "SZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 26,
+        "minute": 18
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 31,
+        "minute": 6
+      }
+    },
+    "id": "Africa/Mbabane"
+  },
+  {
+    "countryCode": "TC",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 21,
+        "minute": 28
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 71,
+        "minute": 8
+      }
+    },
+    "id": "America/Grand_Turk"
+  },
+  {
+    "countryCode": "TD",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 12,
+        "minute": 7
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 15,
+        "minute": 3
+      }
+    },
+    "id": "Africa/Ndjamena"
+  },
+  {
+    "countryCode": "TF",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 49,
+        "minute": 21,
+        "second": 10
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 70,
+        "minute": 13,
+        "second": 3
+      }
+    },
+    "id": "Indian/Kerguelen"
+  },
+  {
+    "countryCode": "TG",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 6,
+        "minute": 8
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 1,
+        "minute": 13
+      }
+    },
+    "id": "Africa/Lome"
+  },
+  {
+    "countryCode": "TH",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 13,
+        "minute": 45
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 100,
+        "minute": 31
+      }
+    },
+    "id": "Asia/Bangkok"
+  },
+  {
+    "countryCode": "TJ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 38,
+        "minute": 35
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 68,
+        "minute": 48
+      }
+    },
+    "id": "Asia/Dushanbe"
+  },
+  {
+    "countryCode": "TK",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 9,
+        "minute": 22
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 171,
+        "minute": 14
+      }
+    },
+    "id": "Pacific/Fakaofo"
+  },
+  {
+    "countryCode": "TL",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 8,
+        "minute": 33
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 125,
+        "minute": 35
+      }
+    },
+    "id": "Asia/Dili"
+  },
+  {
+    "countryCode": "TM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 37,
+        "minute": 57
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 58,
+        "minute": 23
+      }
+    },
+    "id": "Asia/Ashgabat"
+  },
+  {
+    "countryCode": "TN",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 36,
+        "minute": 48
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 10,
+        "minute": 11
+      }
+    },
+    "id": "Africa/Tunis"
+  },
+  {
+    "countryCode": "TO",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 21,
+        "minute": 10
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 175,
+        "minute": 10
+      }
+    },
+    "id": "Pacific/Tongatapu"
+  },
+  {
+    "countryCode": "TR",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 41,
+        "minute": 1
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 28,
+        "minute": 58
+      }
+    },
+    "id": "Europe/Istanbul"
+  },
+  {
+    "countryCode": "TT",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 10,
+        "minute": 39
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 61,
+        "minute": 31
+      }
+    },
+    "id": "America/Port_of_Spain"
+  },
+  {
+    "countryCode": "TV",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 8,
+        "minute": 31
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 179,
+        "minute": 13
+      }
+    },
+    "id": "Pacific/Funafuti"
+  },
+  {
+    "countryCode": "TW",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 25,
+        "minute": 3
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 121,
+        "minute": 30
+      }
+    },
+    "id": "Asia/Taipei"
+  },
+  {
+    "countryCode": "TZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 6,
+        "minute": 48
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 39,
+        "minute": 17
+      }
+    },
+    "id": "Africa/Dar_es_Salaam"
+  },
+  {
+    "countryCode": "UA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 50,
+        "minute": 26
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 30,
+        "minute": 31
+      }
+    },
+    "id": "Europe/Kiev",
+    "comment": "Ukraine (most areas)"
+  },
+  {
+    "countryCode": "UA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 48,
+        "minute": 37
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 22,
+        "minute": 18
+      }
+    },
+    "id": "Europe/Uzhgorod",
+    "comment": "Ruthenia"
+  },
+  {
+    "countryCode": "UA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 47,
+        "minute": 50
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 35,
+        "minute": 10
+      }
+    },
+    "id": "Europe/Zaporozhye",
+    "comment": "Zaporozh'ye/Zaporizhia; Lugansk/Luhansk (east)"
+  },
+  {
+    "countryCode": "UG",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 0,
+        "minute": 19
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 32,
+        "minute": 25
+      }
+    },
+    "id": "Africa/Kampala"
+  },
+  {
+    "countryCode": "UM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 28,
+        "minute": 13
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 177,
+        "minute": 22
+      }
+    },
+    "id": "Pacific/Midway",
+    "comment": "Midway Islands"
+  },
+  {
+    "countryCode": "UM",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 19,
+        "minute": 17
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 166,
+        "minute": 37
+      }
+    },
+    "id": "Pacific/Wake",
+    "comment": "Wake Island"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 40,
+        "minute": 42,
+        "second": 51
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 74,
+        "minute": 0,
+        "second": 23
+      }
+    },
+    "id": "America/New_York",
+    "comment": "Eastern (most areas)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 42,
+        "minute": 19,
+        "second": 53
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 83,
+        "minute": 2,
+        "second": 45
+      }
+    },
+    "id": "America/Detroit",
+    "comment": "Eastern - MI (most areas)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 38,
+        "minute": 15,
+        "second": 15
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 85,
+        "minute": 45,
+        "second": 34
+      }
+    },
+    "id": "America/Kentucky/Louisville",
+    "comment": "Eastern - KY (Louisville area)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 36,
+        "minute": 49,
+        "second": 47
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 84,
+        "minute": 50,
+        "second": 57
+      }
+    },
+    "id": "America/Kentucky/Monticello",
+    "comment": "Eastern - KY (Wayne)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 39,
+        "minute": 46,
+        "second": 6
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 86,
+        "minute": 9,
+        "second": 29
+      }
+    },
+    "id": "America/Indiana/Indianapolis",
+    "comment": "Eastern - IN (most areas)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 38,
+        "minute": 40,
+        "second": 38
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 87,
+        "minute": 31,
+        "second": 43
+      }
+    },
+    "id": "America/Indiana/Vincennes",
+    "comment": "Eastern - IN (Da, Du, K, Mn)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 41,
+        "minute": 3,
+        "second": 5
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 86,
+        "minute": 36,
+        "second": 11
+      }
+    },
+    "id": "America/Indiana/Winamac",
+    "comment": "Eastern - IN (Pulaski)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 38,
+        "minute": 22,
+        "second": 32
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 86,
+        "minute": 20,
+        "second": 41
+      }
+    },
+    "id": "America/Indiana/Marengo",
+    "comment": "Eastern - IN (Crawford)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 38,
+        "minute": 29,
+        "second": 31
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 87,
+        "minute": 16,
+        "second": 43
+      }
+    },
+    "id": "America/Indiana/Petersburg",
+    "comment": "Eastern - IN (Pike)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 38,
+        "minute": 44,
+        "second": 52
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 85,
+        "minute": 4,
+        "second": 2
+      }
+    },
+    "id": "America/Indiana/Vevay",
+    "comment": "Eastern - IN (Switzerland)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 41,
+        "minute": 51,
+        "second": 0
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 87,
+        "minute": 39,
+        "second": 0
+      }
+    },
+    "id": "America/Chicago",
+    "comment": "Central (most areas)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 37,
+        "minute": 57,
+        "second": 11
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 86,
+        "minute": 45,
+        "second": 41
+      }
+    },
+    "id": "America/Indiana/Tell_City",
+    "comment": "Central - IN (Perry)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 41,
+        "minute": 17,
+        "second": 45
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 86,
+        "minute": 37,
+        "second": 30
+      }
+    },
+    "id": "America/Indiana/Knox",
+    "comment": "Central - IN (Starke)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 45,
+        "minute": 6,
+        "second": 28
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 87,
+        "minute": 36,
+        "second": 51
+      }
+    },
+    "id": "America/Menominee",
+    "comment": "Central - MI (Wisconsin border)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 47,
+        "minute": 6,
+        "second": 59
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 101,
+        "minute": 17,
+        "second": 57
+      }
+    },
+    "id": "America/North_Dakota/Center",
+    "comment": "Central - ND (Oliver)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 46,
+        "minute": 50,
+        "second": 42
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 101,
+        "minute": 24,
+        "second": 39
+      }
+    },
+    "id": "America/North_Dakota/New_Salem",
+    "comment": "Central - ND (Morton rural)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 47,
+        "minute": 15,
+        "second": 51
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 101,
+        "minute": 46,
+        "second": 40
+      }
+    },
+    "id": "America/North_Dakota/Beulah",
+    "comment": "Central - ND (Mercer)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 39,
+        "minute": 44,
+        "second": 21
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 104,
+        "minute": 59,
+        "second": 3
+      }
+    },
+    "id": "America/Denver",
+    "comment": "Mountain (most areas)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 43,
+        "minute": 36,
+        "second": 49
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 116,
+        "minute": 12,
+        "second": 9
+      }
+    },
+    "id": "America/Boise",
+    "comment": "Mountain - ID (south); OR (east)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 33,
+        "minute": 26,
+        "second": 54
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 112,
+        "minute": 4,
+        "second": 24
+      }
+    },
+    "id": "America/Phoenix",
+    "comment": "MST - Arizona (except Navajo)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 34,
+        "minute": 3,
+        "second": 8
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 118,
+        "minute": 14,
+        "second": 34
+      }
+    },
+    "id": "America/Los_Angeles",
+    "comment": "Pacific"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 61,
+        "minute": 13,
+        "second": 5
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 149,
+        "minute": 54,
+        "second": 1
+      }
+    },
+    "id": "America/Anchorage",
+    "comment": "Alaska (most areas)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 58,
+        "minute": 18,
+        "second": 7
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 134,
+        "minute": 25,
+        "second": 11
+      }
+    },
+    "id": "America/Juneau",
+    "comment": "Alaska - Juneau area"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 57,
+        "minute": 10,
+        "second": 35
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 135,
+        "minute": 18,
+        "second": 7
+      }
+    },
+    "id": "America/Sitka",
+    "comment": "Alaska - Sitka area"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 55,
+        "minute": 7,
+        "second": 37
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 131,
+        "minute": 34,
+        "second": 35
+      }
+    },
+    "id": "America/Metlakatla",
+    "comment": "Alaska - Annette Island"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 59,
+        "minute": 32,
+        "second": 49
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 139,
+        "minute": 43,
+        "second": 38
+      }
+    },
+    "id": "America/Yakutat",
+    "comment": "Alaska - Yakutat"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 64,
+        "minute": 30,
+        "second": 4
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 165,
+        "minute": 24,
+        "second": 23
+      }
+    },
+    "id": "America/Nome",
+    "comment": "Alaska (west)"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 51,
+        "minute": 52,
+        "second": 48
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 176,
+        "minute": 39,
+        "second": 29
+      }
+    },
+    "id": "America/Adak",
+    "comment": "Aleutian Islands"
+  },
+  {
+    "countryCode": "US",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 21,
+        "minute": 18,
+        "second": 25
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 157,
+        "minute": 51,
+        "second": 30
+      }
+    },
+    "id": "Pacific/Honolulu",
+    "comment": "Hawaii"
+  },
+  {
+    "countryCode": "UY",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 34,
+        "minute": 53
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 56,
+        "minute": 11
+      }
+    },
+    "id": "America/Montevideo"
+  },
+  {
+    "countryCode": "UZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 39,
+        "minute": 40
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 66,
+        "minute": 48
+      }
+    },
+    "id": "Asia/Samarkand",
+    "comment": "Uzbekistan (west)"
+  },
+  {
+    "countryCode": "UZ",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 41,
+        "minute": 20
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 69,
+        "minute": 18
+      }
+    },
+    "id": "Asia/Tashkent",
+    "comment": "Uzbekistan (east)"
+  },
+  {
+    "countryCode": "VA",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 41,
+        "minute": 54,
+        "second": 8
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 12,
+        "minute": 27,
+        "second": 11
+      }
+    },
+    "id": "Europe/Vatican"
+  },
+  {
+    "countryCode": "VC",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 13,
+        "minute": 9
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 61,
+        "minute": 14
+      }
+    },
+    "id": "America/St_Vincent"
+  },
+  {
+    "countryCode": "VE",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 10,
+        "minute": 30
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 66,
+        "minute": 56
+      }
+    },
+    "id": "America/Caracas"
+  },
+  {
+    "countryCode": "VG",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 18,
+        "minute": 27
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 64,
+        "minute": 37
+      }
+    },
+    "id": "America/Tortola"
+  },
+  {
+    "countryCode": "VI",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 18,
+        "minute": 21
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 64,
+        "minute": 56
+      }
+    },
+    "id": "America/St_Thomas"
+  },
+  {
+    "countryCode": "VN",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 10,
+        "minute": 45
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 106,
+        "minute": 40
+      }
+    },
+    "id": "Asia/Ho_Chi_Minh"
+  },
+  {
+    "countryCode": "VU",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 17,
+        "minute": 40
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 168,
+        "minute": 25
+      }
+    },
+    "id": "Pacific/Efate"
+  },
+  {
+    "countryCode": "WF",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 13,
+        "minute": 18
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 176,
+        "minute": 10
+      }
+    },
+    "id": "Pacific/Wallis"
+  },
+  {
+    "countryCode": "WS",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 13,
+        "minute": 50
+      },
+      "longitude": {
+        "sign": "-",
+        "degree": 171,
+        "minute": 44
+      }
+    },
+    "id": "Pacific/Apia"
+  },
+  {
+    "countryCode": "YE",
+    "coordinate": {
+      "latitude": {
+        "sign": "+",
+        "degree": 12,
+        "minute": 45
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 45,
+        "minute": 12
+      }
+    },
+    "id": "Asia/Aden"
+  },
+  {
+    "countryCode": "YT",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 12,
+        "minute": 47
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 45,
+        "minute": 14
+      }
+    },
+    "id": "Indian/Mayotte"
+  },
+  {
+    "countryCode": "ZA",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 26,
+        "minute": 15
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 28,
+        "minute": 0
+      }
+    },
+    "id": "Africa/Johannesburg"
+  },
+  {
+    "countryCode": "ZM",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 15,
+        "minute": 25
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 28,
+        "minute": 17
+      }
+    },
+    "id": "Africa/Lusaka"
+  },
+  {
+    "countryCode": "ZW",
+    "coordinate": {
+      "latitude": {
+        "sign": "-",
+        "degree": 17,
+        "minute": 50
+      },
+      "longitude": {
+        "sign": "+",
+        "degree": 31,
+        "minute": 3
+      }
+    },
+    "id": "Africa/Harare"
+  }
+]

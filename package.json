@@ -1,0 +1,36 @@
+{
+  "name": "timezones-countries-keywords",
+  "version": "1.0.0",
+  "description": "JSON feed with timezones and additional country infos. Useful for timezone selectors.",
+  "main": "dist/index.js",
+  "files": [
+    "dist/index.js",
+    "dist/timezones-iana.json",
+    "dist/timezones-countries.json",
+    "dist/timezones-keywords.json"
+  ],
+  "scripts": {
+    "update": "node update.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xnyl/timezones-countries-keywords.git"
+  },
+  "author": "xnyl (https://github.com/xnyl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xnyl/timezones-countries-keywords/issues"
+  },
+  "homepage": "https://github.com/xnyl/timezones-countries-keywords#readme",
+  "devDependencies": {
+    "get-tz": "^1.0.0",
+    "lodash": "^4.17.4",
+    "world-countries": "^1.8.1"
+  },
+  "keywords": [
+    "timezone",
+    "countries",
+    "iana"
+  ]
+}
