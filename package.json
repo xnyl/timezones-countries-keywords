@@ -1,6 +1,6 @@
 {
   "name": "timezones-countries-keywords",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha.0",
   "description": "JSON feed with timezones and additional country infos. Useful for timezone selectors.",
   "main": "dist/index.js",
   "files": [
