@@ -30,7 +30,6 @@ var withKeywords = feed.timezonesKeywords;
 ]
 */
 
-
 var withIanaData = feed.timezonesIana;
 /*
 [
@@ -69,7 +68,6 @@ var withIanaData = feed.timezonesIana;
   ...
 ]
 */
-
 
 var withCountries = feed.timezonesCountries;
 /*
